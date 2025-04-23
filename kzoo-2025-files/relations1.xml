@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--whc: relations1.xml started as the xml form of relations.xslx, which had first been relations.txt, which was a tsv file; but I had to copy/paste the xml it into a new xml file so I could edit and save. Some editing has been done to delete otiose metadata elements at top, and to delete ss: and x: attribute prefixes. -->
+<Workbook >
+ <Worksheet Name="relations">
+  <Table ExpandedColumnCount="11" ExpandedRowCount="50" FullColumns="1"
+   FullRows="1" DefaultRowHeight="14.5">
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">DocID</Data></Cell>
+    <Cell><Data Type="String">Authority</Data></Cell>
+    <Cell><Data Type="String">AuthorityID</Data></Cell>
+    <Cell><Data Type="String">SubmitterText</Data></Cell>
+    <Cell><Data Type="String">SubmitterID</Data></Cell>
+    <Cell><Data Type="String">Language</Data></Cell>
+    <Cell><Data Type="String">InterpreterText</Data></Cell>
+    <Cell><Data Type="String">InterpreterID</Data></Cell>
+    <Cell><Data Type="String">WitnessText</Data></Cell>
+    <Cell><Data Type="String">WitnessID</Data></Cell>
+    <Cell><Data Type="String">NotaryID</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI1</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>John MacDonald</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">2</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Thomas Talbot</Data></Cell>
+    <Cell><Data Type="Number">3</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 7; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI2</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Catholicus O'Hanlon</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">11</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Thomas Talbot</Data></Cell>
+    <Cell><Data Type="Number">3</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 7; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI3</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Donnchadh O'Byrne</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">12</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William Scrope</wit><wit>Simon Felbryge</wit><wit>Baldwin Bereford</wit><wit>Thomas Mareward</wit><wit>David Bertevyll</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 14; 9; 15; 16; 17; 18</Data></Cell>
+    <Cell><Data Type="Number">19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI4</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Art O'Dempsey</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">20</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Malachy</Data></Cell>
+    <Cell><Data Type="Number">21</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Peter, Archbishop of Cashel</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Alexander, Bishop of Meath</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Richard, Bishop of Ossory</wit><wit>Thomas, Bishop of Elphin</wit><wit>John, Bishop of Leighlin</wit><wit>Miles, Bishop of Cloyne</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>Roger, Earl of March and Ulster</wit><wit>John Holland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 22; 6; 23; 24; 14; 25; 26; 27; 28; 29; 30; 31</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI5</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>John Stanley</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">32</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>William Beg</sub><sub>John Nicholson</sub><sub>Maurice Adalagh</sub><sub>Malachy Cam</sub><sub>John Glasmorgh</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">33; 34; 35; 36; 37</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Fergal O'Kurryn</Data></Cell>
+    <Cell><Data Type="Number">38</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Fergal O'Kurryn</wit><wit>Robert de Orrey</wit><wit>Henry Bekirton</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">38; 39; 40</Data></Cell>
+    <Cell><Data Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI6</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Tadhg O'Meagher</sub><sub>Turloch O'Conor Don</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">42; 43</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Malachy</Data></Cell>
+    <Cell><Data Type="Number">21</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>John Holland</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">23; 14; 31; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI7</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Tadhg MacCarthy Mor</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">44</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>John Golafre</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 45</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI8</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Niall Og O'Neill</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">46</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Thomas O'Locheran</Data></Cell>
+    <Cell><Data Type="Number">47</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>John, Archbishop of Armagh</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 48; 5; 6; 23; 7; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI9</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Maurice Magennis</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">49</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Stephen Garnon</Data></Cell>
+    <Cell><Data Type="Number">50</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 23; 7; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI10</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Niall O'Hanlon</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">51</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Thomas Talbot</Data></Cell>
+    <Cell><Data Type="Number">3</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 23; 7; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI11</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Adam Tobyn</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">52</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 14</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI12</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Maurice FitzMaurice</sub><sub>Thomas MacShane</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">142; 54</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Edward, Earl of Cork and Rutland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 14; 29</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI13</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>William Barrett</sub><sub>Maeduc Carragh Barrett</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">55; 56</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Edward, Earl of Cork and Rutland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 14; 29</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI14</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Bernardus O'Brien</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">57</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Richard Scrope</wit><wit>William Arundel</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">58; 59</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI15a</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Gerald O'Byrne</auth><auth>Donal O'Nolan</auth></authorities></Data></Cell>
+    <Cell><Data Type="String">61; 62</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Thomas Mowbray</sub><sub>John Melton</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">7; 60</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+    <Cell><Data Type="String">Edmund Vale</Data></Cell>
+    <Cell><Data Type="Number">63</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>John, Bishop of Leighlin</wit><wit>John Golafre</wit><wit>Lawrence Verkerell</wit><wit>John Greyly</wit><wit>Galfredo Vale</wit><wit>David Wogan</wit><wit>William Faryndon</wit><wit>Thomas Clinton</wit><wit>Nicholas Langford</wit><wit>Thomas Ilketsale</wit><wit>Thomas Pykworth</wit><wit>Alan Penynton</wit><wit>John Brassebrig</wit><wit>Edward Perys</wit><wit>Walter Bytterly</wit><wit>Edmund Vale</wit><wit>William Drayton</wit><wit>John Drayton</wit><wit>Robert Ley</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI15b</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Thomas Mowbray</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">7</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Gerald O'Byrne</sub><sub>Malachy O'More</sub><sub>Lughaidh Og O'More</sub><sub>Shane O'More</sub><sub>Art Og MacMurrough</sub><sub>Murchadh O'Conor Faly</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">61; 62; 64; 65; 66; 67; 68</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Edmund Vale</Data></Cell>
+    <Cell><Data Type="Number">63</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>John, Bishop of Leighlin</wit><wit>John Golafre</wit><wit>Lawrence Verkerell</wit><wit>John Greyly</wit><wit>Galfredo Vale</wit><wit>David Wogan</wit><wit>William Faryndon</wit><wit>Thomas Clinton</wit><wit>Nicholas Langford</wit><wit>Thomas Ilketsale</wit><wit>Thomas Pykworth</wit><wit>Alan Penynton</wit><wit>John Brassebrig</wit><wit>Edward Perys</wit><wit>Walter Bytterly</wit><wit>Edmund Vale</wit><wit>William Drayton</wit><wit>John Drayton</wit><wit>Robert Ley</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI15c</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Thomas Mowbray</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">7</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>David Mor MacManus</sub><sub>E. MacGerailt</sub><sub>Geoffrey O'Brenan</sub><sub>Finghin MacGillapatrick</sub><sub>Henry Talon</sub><sub>Thomas Carragh Kavanagh</sub><sub>Shane O'Nolan</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">69; 70; 71; 72; 73; 74; 75</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Edmund Vale</Data></Cell>
+    <Cell><Data Type="Number">63</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>John, Bishop of Leighlin</wit><wit>John Golafre</wit><wit>Lawrence Verkerell</wit><wit>John Greyly</wit><wit>Galfredo Vale</wit><wit>David Wogan</wit><wit>William Faryndon</wit><wit>Thomas Clinton</wit><wit>Nicholas Langford</wit><wit>Thomas Ilketsale</wit><wit>Thomas Pykworth</wit><wit>Alan Penynton</wit><wit>John Brassebrig</wit><wit>Edward Perys</wit><wit>Walter Bytterly</wit><wit>Edmund Vale</wit><wit>William Drayton</wit><wit>John Drayton</wit><wit>Robert Ley</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI15d</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Thomas Mowbray</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">7</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Leynagh Fersson O'Conor</sub><sub>O'Toole</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">77; 78</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Guy Lenfaunt</Data></Cell>
+    <Cell><Data Type="Number">76</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>John, Bishop of Leighlin</wit><wit>John Golafre</wit><wit>Lawrence Verkerell</wit><wit>John Greyly</wit><wit>Galfredo Vale</wit><wit>David Wogan</wit><wit>William Faryndon</wit><wit>Thomas Clinton</wit><wit>Nicholas Langford</wit><wit>Thomas Ilketsale</wit><wit>Thomas Pykworth</wit><wit>Alan Penynton</wit><wit>John Brassebrig</wit><wit>Edward Perys</wit><wit>Walter Bytterly</wit><wit>Edmund Vale</wit><wit>William Drayton</wit><wit>John Drayton</wit><wit>Robert Ley</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI15e</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Thomas Mowbray</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">7</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Donnchadh O'Byrne</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">12</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Malachy</Data></Cell>
+    <Cell><Data Type="Number">21</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>John, Bishop of Leighlin</wit><wit>John Golafre</wit><wit>Lawrence Verkerell</wit><wit>John Greyly</wit><wit>Galfredo Vale</wit><wit>David Wogan</wit><wit>William Faryndon</wit><wit>Thomas Clinton</wit><wit>Nicholas Langford</wit><wit>Thomas Ilketsale</wit><wit>Thomas Pykworth</wit><wit>Alan Penynton</wit><wit>John Brassebrig</wit><wit>Edward Perys</wit><wit>Walter Bytterly</wit><wit>Edmund Vale</wit><wit>William Drayton</wit><wit>John Drayton</wit><wit>Robert Ley</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI16</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Niall Og O'Neill</sub><sub>John MacDonald</sub><sub>Maurice Magennis</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">46; 2; 49</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>William Scrope</wit><wit>Baldwin Bereford</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">9; 16</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI17a</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Turloch O'Conor Don</sub><sub>William de Burgo</sub><sub>Bernard O'Brien</sub><sub>Dormicius O'Brien</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">43; 96; 97; 98</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">James, Earl of Ormond</Data></Cell>
+    <Cell><Data Type="Number">95</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Richard, Bishop of Ossory</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William O'Cormacan</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>John Holland</wit><wit>Thomas Mowbray</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 25; 14; 147; 29; 31; 7</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI17b</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Odo O'Kennedy Finn</sub><sub>Thomas O'Kennedy Don</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">99; 100</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Gerald Tallon</Data></Cell>
+    <Cell><Data Type="Number">101</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Richard, Bishop of Ossory</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William O'Cormacan</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>John Holland</wit><wit>Thomas Mowbray</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 25; 14; 147; 29; 31; 7</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI17c</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Theobald FitzWalter</sub><sub>David Gall Burke</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">102; 103</Data></Cell>
+    <Cell><Data Type="String">English</Data></Cell>
+    <Cell><Data Type="String">William Scrope</Data></Cell>
+    <Cell><Data Type="Number">9</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Richard, Bishop of Ossory</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William O'Cormacan</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>John Holland</wit><wit>Thomas Mowbray</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 25; 14; 147; 29; 31; 7</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI18</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Bernardus O'Brien</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">57</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">James, Earl of Ormond</Data></Cell>
+    <Cell><Data Type="Number">95</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Thomas Mowbray</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>James, Earl of Ormond</wit><wit>William Scrope</wit><wit>John Golafre</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 14; 7; 29; 95; 9; 45</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI19</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Tadhg O'Carroll</sub><sub>Tadhg O'Kelly</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">105; 106</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">William O'Carrol</Data></Cell>
+    <Cell><Data Type="Number">107</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Peter, Archbishop of Cashel</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Alexander, Bishop of Meath</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Richard, Bishop of Ossory</wit><wit>Thomas, Bishop of Elphin</wit><wit>John, Bishop of Leighlin</wit><wit>Miles, Bishop of Cloyne</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>Roger, Earl of March and Ulster</wit><wit>John Holland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 22; 23; 24; 14; 25; 26; 27; 28; 29; 30; 31</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI20</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Tadhg O'Carroll</sub><sub>William O'Carroll</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">105; 107</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Thomas Merke</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 108</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI21a</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Cologh Magennis</sub><sub>Adam MacGilmore</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">109; 111</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Faltagh</Data></Cell>
+    <Cell><Data Type="Number">110</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI21b</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Philip MacMahon</sub><sub>MacCabe</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">112; 115</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Walter Teling</Data></Cell>
+    <Cell><Data Type="Number">113</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI21c</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Odo MacMahon</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">114</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Thomas O'Locheran</Data></Cell>
+    <Cell><Data Type="Number">47</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI22</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard, Bishop of Ossory</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">25</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Art Og MacMurrough</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">67</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Fergal O'Kurryn</wit><wit>Robert Shortal</wit><wit>John Saykyn</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">38; 116; 117</Data></Cell>
+    <Cell><Data Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI23</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Turloch O'Conor Don</sub><sub>William de Burgo</sub><sub>Walter Bermingham</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">43; 96; 118</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>John Boor</wit><wit>John Borghulle</wit><wit>Thomas Merke</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">119; 120; 108</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI24</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Malachy O'More</sub><sub>Tuathal O'Kelly</sub><sub>Philip O'Kelly</sub><sub>O'Toole</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">64; 121; 122; 78</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Guy Lenfaunt</Data></Cell>
+    <Cell><Data Type="Number">76</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>John Holland</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 31; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI25</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Murchadh Ban O'Farrell</sub><sub>Ross O'Farrell</sub><sub>Melaghlin Mageoghegan</sub><sub>Niall O'Molloy</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">123; 124; 125; 126</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Bocombe</Data></Cell>
+    <Cell><Data Type="Number">127</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Percy</wit><wit>William Stormy</wit><wit>John Roche</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 8; 128; 129</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI26</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Shane MacMahon</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">130</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Stephen Garnon</Data></Cell>
+    <Cell><Data Type="Number">50</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>William Scrope</wit><wit>Hugh Lutterell</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 9; 131</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI27</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Dermot O'Conor</sub><sub>Cormac O'Melaghlin</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">132; 134</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John of Desmond</Data></Cell>
+    <Cell><Data Type="Number">133</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>John Holland</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">23; 14; 31; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI28a</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Thomas Carragh Kavanagh</sub><sub>David Mor O'Murchadha</sub><sub>Gillapatrick Rua O'More</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">74; 135; 136</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Richard Nelgan</Data></Cell>
+    <Cell><Data Type="Number">137</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>John Holland</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 31; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI28b</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Donal O'Nolan</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">62</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Simon Vale</Data></Cell>
+    <Cell><Data Type="Number">139</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>John Holland</wit><wit>Thomas Percy</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 31; 8; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI29</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Niall O'Neill</sub><sub>Niall Og O'Neill</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">140; 46</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>John, Archbishop of Armagh</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">48; 6; 23; 14</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI30</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Tadhg MacCarthy Mor</sub><sub>Donal MacCarthy</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">44; 143</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Maurice FitzMaurice</Data></Cell>
+    <Cell><Data Type="Number">142</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>John Holland</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 14; 29; 31; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI31</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Murchadh O'Conor Faly</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">68</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">William Wellesley</Data></Cell>
+    <Cell><Data Type="Number">144</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>William Scrope</wit><wit>Hugh Lutterell</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 9; 131</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI32</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Malachy O'Kelly</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">145</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Tideman, Bishop of Llandaff</wit><wit>William Scrope</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">23; 9</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI33a</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Turloch O'Brien</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">146</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">William O'Cormacan</Data></Cell>
+    <Cell><Data Type="Number">147</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Miles, Bishop of Cloyne</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William O'Cormacan</wit><wit>Roger, Earl of March and Ulster</wit><wit>Thomas Mowbray</wit><wit>John Holland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 28; 14; 147; 30; 7; 31</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI33b</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Thomas O'Dwyer</sub><sub>Philip O'Kennedy</sub><sub>Niall O'Molloy</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">148; 149; 126</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">Thomas Kildare</Data></Cell>
+    <Cell><Data Type="Number">150</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Miles, Bishop of Cloyne</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William O'Cormacan</wit><wit>Roger, Earl of March and Ulster</wit><wit>Thomas Mowbray</wit><wit>John Holland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">6; 23; 28; 14; 147; 30; 7; 31</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI34</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Turloch O'Conor Don</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">43</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Nicholas Slake</wit><wit>Thomas Merke</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">151; 108</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI35a</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Cormac [Dermot] MacCarthy</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">152</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">William Scrope</Data></Cell>
+    <Cell><Data Type="Number">9</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>John Holland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 14; 29; 31</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI35b</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Cormac [Donal] MacCarthy</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">153</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Galwey</Data></Cell>
+    <Cell><Data Type="Number">154</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Robert, Archbishop of Dublin</wit><wit>Richard, Bishop of Chichester</wit><wit>Tideman, Bishop of Llandaff</wit><wit>Robert, Bishop of Lismore and Waterford</wit><wit>Edward, Earl of Cork and Rutland</wit><wit>John Holland</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">13; 6; 23; 14; 29; 31</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI36</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Donal Morghysson</sub></submitters></Data></Cell>
+    <Cell><Data Type="Number">155</Data></Cell>
+    <Cell><Data Type="String">Unknown</Data></Cell>
+       <Cell><Data Type="String">N/A</Data></Cell><!--whc: added interpreter cell to standardize number of cells per row-->
+       <Cell><Data Type="Number">0</Data></Cell><!--whc: added interpreter ref cell to standardize number of cells per row-->
+    <Cell Index="9"><Data Type="String"><witnesses><wit>Robert, Bishop of Lismore and Waterford</wit><wit>William de Angel</wit><wit>William Clynton</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">14; 156; 157</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI37</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Magawley</sub><sub>Muirchertach Mageoghegan</sub><sub>Schynagh</sub><sub>Thomas MacHegh</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">158; 159; 160; 161</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Bocombe</Data></Cell>
+    <Cell><Data Type="Number">127</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Stormy</wit><wit>John Roche</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 7; 8; 128; 129</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell StyleID="s62"><Data Type="String">NI38</Data></Cell>
+    <Cell><Data Type="String"><authorities><auth>Richard II</auth></authorities></Data></Cell>
+    <Cell><Data Type="Number">1</Data></Cell>
+    <Cell><Data Type="String"><submitters><sub>Conor O'Melaghlin</sub><sub>Gilla-Isa O'Reilly</sub><sub>Maolmuire O'Reilly</sub><sub>Thomas O'Farrell</sub></submitters></Data></Cell>
+    <Cell><Data Type="String">162; 163; 164; 165</Data></Cell>
+    <Cell><Data Type="String">Irish</Data></Cell>
+    <Cell><Data Type="String">John Bocombe</Data></Cell>
+    <Cell><Data Type="Number">127</Data></Cell>
+    <Cell><Data Type="String"><witnesses><wit>Thomas, Archbishop of York</wit><wit>Robert, Bishop of London</wit><wit>Richard, Bishop of Chichester</wit><wit>Thomas Mowbray</wit><wit>Thomas Percy</wit><wit>William Stormy</wit><wit>John Roche</wit><wit>Tideman, Bishop of Llandaff</wit></witnesses></Data></Cell>
+    <Cell><Data Type="String">4; 5; 6; 7; 8; 128; 129; 23</Data></Cell>
+    <Cell><Data Type="Number">10</Data></Cell>
+   </Row>
+  </Table>
+ 
+ </Worksheet>
+</Workbook>
+

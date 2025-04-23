@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Campbell, William H</LastAuthor>
+  <Created>2025-04-23T19:46:04Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="relations">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="50" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DocID</Data></Cell>
+    <Cell><Data ss:Type="String">Authority</Data></Cell>
+    <Cell><Data ss:Type="String">AuthorityID</Data></Cell>
+    <Cell><Data ss:Type="String">SubmitterText</Data></Cell>
+    <Cell><Data ss:Type="String">SubmitterID</Data></Cell>
+    <Cell><Data ss:Type="String">Language</Data></Cell>
+    <Cell><Data ss:Type="String">InterpreterText</Data></Cell>
+    <Cell><Data ss:Type="String">InterpreterID</Data></Cell>
+    <Cell><Data ss:Type="String">WitnessText</Data></Cell>
+    <Cell><Data ss:Type="String">WitnessID</Data></Cell>
+    <Cell><Data ss:Type="String">NotaryID</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI1</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">John MacDonald</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Talbot</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Mowbray; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 7; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI2</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Catholicus O'Hanlon</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Talbot</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Mowbray; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 7; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI3</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Donnchadh O'Byrne</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Robert, Bishop of Lismore and Waterford; William Scrope; Simon Felbryge; Baldwin Bereford; Thomas Mareward; David Bertevyll</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 14; 9; 15; 16; 17; 18</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI4</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Art O'Dempsey</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Malachy</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Peter, Archbishop of Cashel; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Alexander, Bishop of Meath; Robert, Bishop of Lismore and Waterford; Richard, Bishop of Ossory; Thomas, Bishop of Elphin; John, Bishop of Leighlin; Miles, Bishop of Cloyne; Edward, Earl of Cork and Rutland; Roger, Earl of March and Ulster; John Holland</Data></Cell>
+    <Cell><Data ss:Type="String">13; 22; 6; 23; 24; 14; 25; 26; 27; 28; 29; 30; 31</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI5</Data></Cell>
+    <Cell><Data ss:Type="String">John Stanley</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">William Beg; John Nicholson; Maurice Adalagh; Malachy Cam; John Glasmorgh</Data></Cell>
+    <Cell><Data ss:Type="String">33; 34; 35; 36; 37</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Fergal O'Kurryn</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">Fergal O'Kurryn; Robert de Orrey; Henry Bekirton</Data></Cell>
+    <Cell><Data ss:Type="String">38; 39; 40</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI6</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Tadhg O'Meagher; Turloch O'Conor Don</Data></Cell>
+    <Cell><Data ss:Type="String">42; 43</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Malachy</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; John Holland; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">23; 14; 31; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI7</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Tadhg MacCarthy Mor</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Richard, Bishop of Chichester; John Golafre</Data></Cell>
+    <Cell><Data ss:Type="String">6; 45</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI8</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Niall Og O'Neill</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas O'Locheran</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; John, Archbishop of Armagh; Robert, Bishop of London; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Thomas Mowbray; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 48; 5; 6; 23; 7; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI9</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Maurice Magennis</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Stephen Garnon</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Thomas Mowbray; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 23; 7; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI10</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Niall O'Hanlon</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Talbot</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Thomas Mowbray; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 23; 7; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI11</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Adam Tobyn</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 14</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI12</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Maurice FitzMaurice; Thomas MacShane</Data></Cell>
+    <Cell><Data ss:Type="String">142; 54</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 14; 29</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI13</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">William Barrett; Maeduc Carragh Barrett</Data></Cell>
+    <Cell><Data ss:Type="String">55; 56</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 14; 29</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI14</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Bernardus O'Brien</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Richard Scrope; William Arundel</Data></Cell>
+    <Cell><Data ss:Type="String">58; 59</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI15a</Data></Cell>
+    <Cell><Data ss:Type="String">Gerald O'Byrne; Donal O'Nolan</Data></Cell>
+    <Cell><Data ss:Type="String">61; 62</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Mowbray; John Melton</Data></Cell>
+    <Cell><Data ss:Type="String">7; 60</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">Edmund Vale</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">John, Bishop of Leighlin; John Golafre; Lawrence Verkerell; John Greyly; Galfredo Vale; David Wogan; William Faryndon; Thomas Clinton; Nicholas Langford; Thomas Ilketsale; Thomas Pykworth; Alan Penynton; John Brassebrig; Edward Perys; Walter Bytterly; Edmund Vale; William Drayton; John Drayton; Robert Ley</Data></Cell>
+    <Cell><Data ss:Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI15b</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Gerald O'Byrne; Malachy O'More; Lughaidh Og O'More; Shane O'More; Art Og MacMurrough; Murchadh O'Conor Faly</Data></Cell>
+    <Cell><Data ss:Type="String">61; 62; 64; 65; 66; 67; 68</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Edmund Vale</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">John, Bishop of Leighlin; John Golafre; Lawrence Verkerell; John Greyly; Galfredo Vale; David Wogan; William Faryndon; Thomas Clinton; Nicholas Langford; Thomas Ilketsale; Thomas Pykworth; Alan Penynton; John Brassebrig; Edward Perys; Walter Bytterly; Edmund Vale; William Drayton; John Drayton; Robert Ley</Data></Cell>
+    <Cell><Data ss:Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI15c</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">David Mor MacManus; E. MacGerailt; Geoffrey O'Brenan; Finghin MacGillapatrick; Henry Talon; Thomas Carragh Kavanagh; Shane O'Nolan</Data></Cell>
+    <Cell><Data ss:Type="String">69; 70; 71; 72; 73; 74; 75</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Edmund Vale</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">John, Bishop of Leighlin; John Golafre; Lawrence Verkerell; John Greyly; Galfredo Vale; David Wogan; William Faryndon; Thomas Clinton; Nicholas Langford; Thomas Ilketsale; Thomas Pykworth; Alan Penynton; John Brassebrig; Edward Perys; Walter Bytterly; Edmund Vale; William Drayton; John Drayton; Robert Ley</Data></Cell>
+    <Cell><Data ss:Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI15d</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Leynagh Fersson O'Conor; O'Toole</Data></Cell>
+    <Cell><Data ss:Type="String">77; 78</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Guy Lenfaunt</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">John, Bishop of Leighlin; John Golafre; Lawrence Verkerell; John Greyly; Galfredo Vale; David Wogan; William Faryndon; Thomas Clinton; Nicholas Langford; Thomas Ilketsale; Thomas Pykworth; Alan Penynton; John Brassebrig; Edward Perys; Walter Bytterly; Edmund Vale; William Drayton; John Drayton; Robert Ley</Data></Cell>
+    <Cell><Data ss:Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI15e</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Donnchadh O'Byrne</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Malachy</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">John, Bishop of Leighlin; John Golafre; Lawrence Verkerell; John Greyly; Galfredo Vale; David Wogan; William Faryndon; Thomas Clinton; Nicholas Langford; Thomas Ilketsale; Thomas Pykworth; Alan Penynton; John Brassebrig; Edward Perys; Walter Bytterly; Edmund Vale; William Drayton; John Drayton; Robert Ley</Data></Cell>
+    <Cell><Data ss:Type="String">27; 45; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 63</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI16</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Niall Og O'Neill; John MacDonald; Maurice Magennis</Data></Cell>
+    <Cell><Data ss:Type="String">46; 2; 49</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">William Scrope; Baldwin Bereford</Data></Cell>
+    <Cell><Data ss:Type="String">9; 16</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI17a</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Turloch O'Conor Don; William de Burgo; Bernard O'Brien; Dormicius O'Brien</Data></Cell>
+    <Cell><Data ss:Type="String">43; 96; 97; 98</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">James, Earl of Ormond</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Richard, Bishop of Ossory; Robert, Bishop of Lismore and Waterford; William O'Cormacan; Edward, Earl of Cork and Rutland; John Holland; Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 25; 14; 147; 29; 31; 7</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI17b</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Odo O'Kennedy Finn; Thomas O'Kennedy Don</Data></Cell>
+    <Cell><Data ss:Type="String">99; 100</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Gerald Tallon</Data></Cell>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Richard, Bishop of Ossory; Robert, Bishop of Lismore and Waterford; William O'Cormacan; Edward, Earl of Cork and Rutland; John Holland; Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 25; 14; 147; 29; 31; 7</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI17c</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Theobald FitzWalter; David Gall Burke</Data></Cell>
+    <Cell><Data ss:Type="String">102; 103</Data></Cell>
+    <Cell><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">William Scrope</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Richard, Bishop of Ossory; Robert, Bishop of Lismore and Waterford; William O'Cormacan; Edward, Earl of Cork and Rutland; John Holland; Thomas Mowbray</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 25; 14; 147; 29; 31; 7</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI18</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Bernardus O'Brien</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">James, Earl of Ormond</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Thomas Mowbray; Edward, Earl of Cork and Rutland; James, Earl of Ormond; William Scrope; John Golafre</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 14; 7; 29; 95; 9; 45</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI19</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Tadhg O'Carroll; Tadhg O'Kelly</Data></Cell>
+    <Cell><Data ss:Type="String">105; 106</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">William O'Carrol</Data></Cell>
+    <Cell><Data ss:Type="Number">107</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Peter, Archbishop of Cashel; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Alexander, Bishop of Meath; Robert, Bishop of Lismore and Waterford; Richard, Bishop of Ossory; Thomas, Bishop of Elphin; John, Bishop of Leighlin; Miles, Bishop of Cloyne; Edward, Earl of Cork and Rutland; Roger, Earl of March and Ulster; John Holland</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 22; 23; 24; 14; 25; 26; 27; 28; 29; 30; 31</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI20</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Tadhg O'Carroll; William O'Carroll</Data></Cell>
+    <Cell><Data ss:Type="String">105; 107</Data></Cell>
+    <Cell><Data ss:Type="String">Unkown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Robert, Archbishop of Dublin; Thomas Merke</Data></Cell>
+    <Cell><Data ss:Type="String">13; 108</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI21a</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Cologh Magennis; Adam MacGilmore</Data></Cell>
+    <Cell><Data ss:Type="String">109; 111</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Faltagh</Data></Cell>
+    <Cell><Data ss:Type="Number">110</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI21b</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Philip MacMahon; MacCabe</Data></Cell>
+    <Cell><Data ss:Type="String">112; 115</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Walter Teling</Data></Cell>
+    <Cell><Data ss:Type="Number">113</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI21c</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Odo MacMahon</Data></Cell>
+    <Cell><Data ss:Type="Number">114</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas O'Locheran</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI22</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Ossory</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">Art Og MacMurrough</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Fergal O'Kurryn; Robert Shortal; John Saykyn</Data></Cell>
+    <Cell><Data ss:Type="String">38; 116; 117</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI23</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Turloch O'Conor Don; William de Burgo; Walter Bermingham</Data></Cell>
+    <Cell><Data ss:Type="String">43; 96; 118</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">John Boor; John Borghulle; Thomas Merke</Data></Cell>
+    <Cell><Data ss:Type="String">119; 120; 108</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI24</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Malachy O'More; Tuathal O'Kelly; Philip O'Kelly; O'Toole</Data></Cell>
+    <Cell><Data ss:Type="String">64; 121; 122; 78</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Guy Lenfaunt</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; John Holland; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 31; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI25</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Murchadh Ban O'Farrell; Ross O'Farrell; Melaghlin Mageoghegan; Niall O'Molloy</Data></Cell>
+    <Cell><Data ss:Type="String">123; 124; 125; 126</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Bocombe</Data></Cell>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Percy; William Stormy; John Roche</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 8; 128; 129</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI26</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Shane MacMahon</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Stephen Garnon</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; William Scrope; Hugh Lutterell</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 9; 131</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI27</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Dermot O'Conor; Cormac O'Melaghlin</Data></Cell>
+    <Cell><Data ss:Type="String">132; 134</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John of Desmond</Data></Cell>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="String">Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; John Holland; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">23; 14; 31; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI28a</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Carragh Kavanagh; David Mor O'Murchadha; Gillapatrick Rua O'More</Data></Cell>
+    <Cell><Data ss:Type="String">74; 135; 136</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Richard Nelgan</Data></Cell>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; John Holland; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 31; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI28b</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Donal O'Nolan</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Simon Vale</Data></Cell>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; John Holland; Thomas Percy; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 31; 8; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI29</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Niall O'Neill; Niall Og O'Neill</Data></Cell>
+    <Cell><Data ss:Type="String">140; 46</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">John, Archbishop of Armagh; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford</Data></Cell>
+    <Cell><Data ss:Type="String">48; 6; 23; 14</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI30</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Tadhg MacCarthy Mor; Donal MacCarthy</Data></Cell>
+    <Cell><Data ss:Type="String">44; 143</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Maurice FitzMaurice</Data></Cell>
+    <Cell><Data ss:Type="Number">142</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 14; 29; 31; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI31</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Murchadh O'Conor Faly</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">William Wellesley</Data></Cell>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; William Scrope; Hugh Lutterell</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 9; 131</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI32</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Malachy O'Kelly</Data></Cell>
+    <Cell><Data ss:Type="Number">145</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Tideman, Bishop of Llandaff; William Scrope</Data></Cell>
+    <Cell><Data ss:Type="String">23; 9</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI33a</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Turloch O'Brien</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">William O'Cormacan</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Miles, Bishop of Cloyne; Robert, Bishop of Lismore and Waterford; William O'Cormacan; Roger, Earl of March and Ulster; Thomas Mowbray; John Holland</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 28; 14; 147; 30; 7; 31</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI33b</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas O'Dwyer; Philip O'Kennedy; Niall O'Molloy</Data></Cell>
+    <Cell><Data ss:Type="String">148; 149; 126</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas Kildare</Data></Cell>
+    <Cell><Data ss:Type="Number">150</Data></Cell>
+    <Cell><Data ss:Type="String">Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Miles, Bishop of Cloyne; Robert, Bishop of Lismore and Waterford; William O'Cormacan; Roger, Earl of March and Ulster; Thomas Mowbray; John Holland</Data></Cell>
+    <Cell><Data ss:Type="String">6; 23; 28; 14; 147; 30; 7; 31</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI34</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Turloch O'Conor Don</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Nicholas Slake; Thomas Merke</Data></Cell>
+    <Cell><Data ss:Type="String">151; 108</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI35a</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Cormac [Dermot] MacCarthy</Data></Cell>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">William Scrope</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 14; 29; 31</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI35b</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Cormac [Donal] MacCarthy</Data></Cell>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Galwey</Data></Cell>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell><Data ss:Type="String">Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland</Data></Cell>
+    <Cell><Data ss:Type="String">13; 6; 23; 14; 29; 31</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI36</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Donal Morghysson</Data></Cell>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="String">Robert, Bishop of Lismore and Waterford; William de Angel; William Clynton</Data></Cell>
+    <Cell><Data ss:Type="String">14; 156; 157</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI37</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Magawley; Muirchertach Mageoghegan; Schynagh; Thomas MacHegh</Data></Cell>
+    <Cell><Data ss:Type="String">158; 159; 160; 161</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Bocombe</Data></Cell>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Mowbray; Thomas Percy; William Stormy; John Roche</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 7; 8; 128; 129</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">NI38</Data></Cell>
+    <Cell><Data ss:Type="String">Richard II</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Conor O'Melaghlin; Gilla-Isa O'Reilly; Maolmuire O'Reilly; Thomas O'Farrell</Data></Cell>
+    <Cell><Data ss:Type="String">162; 163; 164; 165</Data></Cell>
+    <Cell><Data ss:Type="String">Irish</Data></Cell>
+    <Cell><Data ss:Type="String">John Bocombe</Data></Cell>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="String">Thomas, Archbishop of York; Robert, Bishop of London; Richard, Bishop of Chichester; Thomas Mowbray; Thomas Percy; William Stormy; John Roche; Tideman, Bishop of Llandaff</Data></Cell>
+    <Cell><Data ss:Type="String">4; 5; 6; 7; 8; 128; 129; 23</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
