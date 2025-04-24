@@ -8,13 +8,11 @@
         <h1>Workshop resources</h1>
         <p><i>This page hosts the resources and links for the workshop "Digital Humanities for a Medieval World: Public Digital Humanities in the Classroom" at the International Congress on Medieval Studies, May 8, 2025.</i></p>
         
-        
-        <p>Authored by: <a href='https://greensburg-pitt.academia.edu/CampbellW'>William H. (Bill) Campbell</a>, Assistant Professor of History and Digital Studies, <a href='https://www.greensburg.pitt.edu/'>University of Pittsburgh at Greensburg</a>, whc7@pitt.edu</p>
         <hr/>
         <h2>First steps</h2>
         <ol><li>Open this page on your own laptop so you can click links directly: <a href="https://haggis78.github.io/workshop/icms2025.html">https://haggis78.github.io/workshop/icms2025.html</a></li>
             <li>Go to <a href="https://kumu.io/">https://kumu.io/</a> and click the blue "JOIN FOR FREE" button create an account.</li>
-            <li>Click the green "New Project" button at upper right.</li>
+
                     </ol>
         <hr/>
         <h2>Basic terms of network graphs</h2>
@@ -28,11 +26,37 @@
 <h2>Looking at our data</h2>
         <p>The source of the data we are using is from the <a>Submission Strategies: The Irish Submissions to Richard II, 1395</a> project; I adapted material from Dr. Margaret Smith's <a href="https://github.com/msmith0913/submissionstrategies/blob/main/data/relations.txt">relations .tsv file</a> to fit the format requirements for Kumu. You can either upload .csv files to Kumu or paste in links to Google Sheets.</p>
         <h3>Nodes table</h3>
-        <ul><li><a href="kzoo-2025-files/submission-nodes.csv">csv file</a></li>
+        <ul><li><a href="kzoo-2025-files/submission-nodes.csv">Download csv file</a></li>
         <li>Google Sheet link: </li></ul>
         <h3>Edges table</h3>
-        <ul><li><a href="kzoo-2025-files/submission-edges.csv">csv file</a></li>
+        <ul><li><a href="kzoo-2025-files/submission-edges.csv">Download csv file</a></li>
             <li>Google Sheet link: </li></ul>
+        <hr/>
+        <h2>Creating a network graph: Step by step</h2>
+        <h3>Uploading your data</h3>
+        <ol>
+            <li>In Kumu, click the green "New Project" button at upper right.</li>
+            <li>Give the project a name. Description is optional. Tick "I'm not a robot" and then "Create project".</li>
+            <li>Optionally, give your map a name.</li>
+            <li>Pick the "Systems" template.</li>
+            <li>Our graph is directional, so choose "Connections will be => Directed", then "Get started".</li>
+            <li>You now have a blank graph. To upload data, click the green plus button at bottom center, and choose "Import".</li>
+            <li>Start with your nodes table. You can "Choose file" and upload submission-nodes.csv from your computer, or paste in the link to a Google Sheet (see above for link). Do either of those and click "Import spreadsheet". </li>
+            <li>You now see your data in "Import review". By naming our first two columngs "Label" and "Type", we have already told Kumu what those columns represent. Click "Save import". You will now see all of your nodes.</li>
+            <li>Now do the same with your edges table. You can "Choose file" and upload submission-edges.csv from your computer, or paste in the link to a Google Sheet (see above for link). Do either of those and click "Import spreadsheet".</li>
+            <li>You will again see your data in "Import review". By naming our first two columngs "From" and "To", we have already told Kumu what those columns represent. Click "Save import". You will now see all of your edges.</li>
+        </ol>
+        <h3>Styling your network graph</h3>
+        <ol>
+            <li>Click the slider icon at the upper right. This opens the control panel.</li>
+            <li>Start with "Size by". Select "frequency". This will size the nodes according to how often someone appears.</li>
+            <li>Next, click "Color by". Select "Element Type" to select that column from our data. This will turn the Witness nodes one color and the Submitter nodes another. You can also change the color scheme.</li>
+            <li>Now let's spread out the graph so we can see better. Click "Customize defaults", go down to Layout Settings, and change Preset from auto to hairball.</li>
+            <li>Try dragging nodes around; you'll see them pull on one another. To pin them in place, so you can drag them one at a time, go down to "Layout", and change from force-directed to "off". </li>
+            <li>Once you like what you see, click "Save". If you want to start your styling over, click "Revert", and it will go back to the last saved version.</li>
+        </ol>
+        <h3>Sharing your network graph</h3>
+        <p>Once you have your graph in the form you want to share, click the project name in the upper left corner. Select "EMBEDS &lt; / &gt; " . Give it a title. Optionally, select "Include map overview in sidebar" and/or "Include current position and scale", then "Create embed / share link". You'll get both a read-only link and an html embed code. If using this as a classroom assignment, students can submit this to you for you to view and grade.</p>
         <hr/>
         <p>Authored by: <a href='https://greensburg-pitt.academia.edu/CampbellW'>William H. (Bill) Campbell</a>, Assistant Professor of History and Digital Studies, <a href='https://www.greensburg.pitt.edu/'>University of Pittsburgh at Greensburg</a>, whc7@pitt.edu</p>
         <p>The content on this page is under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons CC-BY-NC 4.0 license</a>. You may use, adapt, and share it freely, with attribution, for non-commercial purposes only.</p>
