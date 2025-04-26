@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>ICMS Workshop</title>
+        <link type="text/css" href="style.css" rel="stylesheet" />
     </head>
     <body>
         
@@ -26,11 +27,10 @@
 <h2>Looking at our data</h2>
         <p>The source of the data we are using is from the <a>Submission Strategies: The Irish Submissions to Richard II, 1395</a> project; I adapted material from Dr. Margaret Smith's <a href="https://github.com/msmith0913/submissionstrategies/blob/main/data/relations.txt">relations .tsv file</a> to fit the format requirements for Kumu. You can either upload .csv files to Kumu or paste in links to Google Sheets.</p>
         <h3>Nodes table</h3>
-        <ul><li><a href="kzoo-2025-files/submission-nodes.csv">Download csv file</a></li>
-        <li>Google Sheet link: </li></ul>
+        <p><a href="kzoo-2025-files/submission-nodes.csv">Download csv file</a></p>
         <h3>Edges table</h3>
-        <ul><li><a href="kzoo-2025-files/submission-edges.csv">Download csv file</a></li>
-            <li>Google Sheet link: </li></ul>
+        <p><a href="kzoo-2025-files/submission-edges.csv">Download csv file</a></p>
+       
         <hr/>
         <h2>Creating a network graph: Step by step</h2>
         <h3>Uploading your data</h3>
@@ -41,10 +41,10 @@
             <li>Pick the "Systems" template.</li>
             <li>Our graph is directional, so choose "Connections will be => Directed", then "Get started".</li>
             <li>You now have a blank graph. To upload data, click the green plus button at bottom center, and choose "Import".</li>
-            <li>Start with your nodes table. You can "Choose file" and upload submission-nodes.csv from your computer, or paste in the link to a Google Sheet (see above for link). Do either of those and click "Import spreadsheet". </li>
-            <li>You now see your data in "Import review". By naming our first two columngs "Label" and "Type", we have already told Kumu what those columns represent. Click "Save import". You will now see all of your nodes.</li>
-            <li>Now do the same with your edges table. You can "Choose file" and upload submission-edges.csv from your computer, or paste in the link to a Google Sheet (see above for link). Do either of those and click "Import spreadsheet".</li>
-            <li>You will again see your data in "Import review". By naming our first two columngs "From" and "To", we have already told Kumu what those columns represent. Click "Save import". You will now see all of your edges.</li>
+            <li>Start with your nodes table. You can "Choose file" and upload submission-nodes.csv from your computer, or paste in the link to a Google Sheet if that's where your data are. Then click "Import spreadsheet". </li>
+            <li>You now see your data in "Import review". By naming our first two columns "Label" and "Type", we have already told Kumu what those columns represent; if you used different column labels, you would need to use dropdowns to select (at minimum) what column to use for Label. Click "Save import". You will now see all of your nodes.</li>
+            <li>Now do the same with your edges table. You can "Choose file" and upload submission-edges.csv from your computer, or paste in the link to a Google Sheet if that's where your data are. Then click "Import spreadsheet".</li>
+            <li>You will again see your data in "Import review". By naming our first two columngs "From" and "To", we have already told Kumu what those columns represent; if you used different column labels, you would need to use dropdowns to select what column to use for each, <i>even if your graph is non-directional or bi-directional</i>. Click "Save import". You will now see all of your edges.</li>
         </ol>
         <h3>Styling your network graph</h3>
         <ol>
