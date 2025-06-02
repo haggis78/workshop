@@ -1,0 +1,1154 @@
+<root>
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title> Eiriks-Saga.txt</title>
+              <author>[Redacted]</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2024-11-04</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/oxfo6z3wbzqmoo"/>
+              <biblStruct>
+                <monogr>
+                  
+                  <title>Eiriks-Saga.txt</title>
+                    
+                </monogr>
+              </biblStruct>
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              
+              <particDesc>
+                  <ab>
+          <listRelation>
+            <relation name="father_of" active="recogito-83b73939-4668-4628-ad81-a5624cd7f0e4" passive="recogito-924c6107-8447-42b6-87b4-859acd90094b"/><relation name="father_of" active="recogito-233668e9-295d-4525-90c0-c0e1fbd56fc3" passive="recogito-ffbd7c88-6205-4321-b612-7c72d7090af2"/><relation name="husband_of" active="recogito-dc5e0913-78b1-4823-bc5b-aac100b71099" passive="recogito-3d24da47-6d6b-4137-b846-5901bbf223fa"/><relation name="kinsman_of" active="recogito-e61ee9aa-f35d-4956-8405-4a3335e25313" passive="recogito-7a2594d2-4fda-4de4-ae18-95c6693b4ff6"/><relation name="enemy_of" active="recogito-e61ee9aa-f35d-4956-8405-4a3335e25313" passive="recogito-eb15cc61-76b1-4773-b7a8-20951e39ff24"/><relation name="ally_of" active="recogito-58444a3a-57d4-4a30-8419-7fbfe698da5b" passive="recogito-b15df504-32ff-4ad7-a67c-2ee19104797c"/><relation name="wife_of" active="recogito-37f7f12a-9183-4104-b179-eb4d20c1df1b" passive="recogito-d4b602fe-2970-42c1-a383-3cb8a39c100a"/><relation name="ally_of" active="recogito-955cb6a3-ee58-4541-90fa-05ca6fc26199" passive="recogito-7fab3d5d-ad67-4880-9ee5-4c0ede6b91fe"/><relation name="father_of" active="recogito-5ce9ae64-432b-4ebf-bc20-03e40b055096" passive="recogito-f8278d19-5fee-4a18-9ae6-4835f306417c"/><relation name="father_of" active="recogito-a9f72942-c0a5-45d2-82a7-226db1f78f4a" passive="recogito-731ed5f6-ca1a-4d14-9d4a-1eafb431b542"/><relation name="husband_of" active="recogito-2b77ef6e-2735-487f-96e4-6a1447f89d09" passive="recogito-a7b11deb-5747-4e8d-919f-9af51f03b95b"/><relation name="son_of" active="recogito-ba06fd99-6547-4b87-ba94-3b71d14fe6ab" passive="recogito-8b70d36a-b7d6-442e-9178-b64bf1dd1f4a"/><relation name="son_of" active="recogito-ba06fd99-6547-4b87-ba94-3b71d14fe6ab" passive="recogito-be9c8175-793a-42ab-ab09-a4016366d6e7"/><relation name="son_of" active="recogito-12c563e3-e30d-4421-8ec7-0e1b511f9799" passive="recogito-db7c7e15-bbbb-4f30-ac02-770c6017cbd1"/><relation name="acquaintance_of" active="recogito-d24e0e8b-9758-425b-ab73-5a61921232a2" passive="recogito-8047a92f-62d2-4208-b570-f9f8c7bc05ee"/><relation name="ally_of" active="recogito-2a85b89d-668e-4f0b-86f9-9665bf65c03d" passive="recogito-b15df504-32ff-4ad7-a67c-2ee19104797c"/><relation name="friend_of" active="recogito-752b7a08-fed2-4483-ba54-b6164d76a08a" passive="recogito-7fab3d5d-ad67-4880-9ee5-4c0ede6b91fe"/><relation name="acquaintance_of" active="recogito-8223df03-e3dd-4f58-a3a8-40687e983cab" passive="recogito-bd6a398f-eccb-4a29-9545-5f5fe97749a4"/><relation name="acquaintance_of" active="recogito-fd5d1884-18b4-45b2-8997-144e0158e32e" passive="recogito-1c2d420e-371a-4e3b-96cb-6cb4b1582db8"/><relation name="father_of" active="recogito-d6e65b55-faf5-4718-8daa-3e1a668edb48" passive="recogito-ec2400dd-bce1-4192-86dc-321eb111d762"/><relation name="father_of" active="recogito-221b1254-c516-4384-9a12-c14b0de507cd" passive="recogito-bece8c72-f423-4a15-8396-b8331c95a9d5"/><relation name="father_of" active="recogito-311594fa-9367-437a-bd5b-fa75ab931b7a" passive="recogito-307f4272-7761-4e7b-81c3-64747e1fbbc6"/><relation name="kinsman_of" active="recogito-85607410-2a2f-4a96-b273-0b27bb6d6f98" passive="recogito-7a2594d2-4fda-4de4-ae18-95c6693b4ff6"/><relation name="enemy_of" active="recogito-85607410-2a2f-4a96-b273-0b27bb6d6f98" passive="recogito-eb15cc61-76b1-4773-b7a8-20951e39ff24"/><relation name="friend_of" active="recogito-0a62ade4-2095-4b44-a89b-4a964583647a" passive="recogito-7fab3d5d-ad67-4880-9ee5-4c0ede6b91fe"/><relation name="father_of" active="recogito-731ed5f6-ca1a-4d14-9d4a-1eafb431b542" passive="recogito-37f7f12a-9183-4104-b179-eb4d20c1df1b"/><relation name="father_of" active="recogito-731ed5f6-ca1a-4d14-9d4a-1eafb431b542" passive="recogito-73630d52-9328-4dcc-84f6-22d615d26743"/><relation name="wife_of" active="recogito-9c50c97c-4c94-4aa8-afdf-26c8e5d29006" passive="recogito-274a5fcd-f444-435b-b308-f7aebb81193e"/><relation name="acquaintance_of" active="recogito-9c50c97c-4c94-4aa8-afdf-26c8e5d29006" passive="recogito-5e23588f-0e4b-4d5a-bf27-bc430b836100"/><relation name="acquaintance_of" active="recogito-9c50c97c-4c94-4aa8-afdf-26c8e5d29006" passive="recogito-0525aab0-e5e1-441e-abff-afa8a8a3eda9"/><relation name="husband_of" active="recogito-2c2204db-33e6-4d8d-86ea-bbc7b0ff957f" passive="recogito-3bff6cb9-ef1f-47cf-8a11-06e1be9bdfb0"/><relation name="acquaintance_of" active="recogito-4afc16c3-7102-4b5c-81a7-df6350741e44" passive="recogito-741653f3-dee7-4804-9c2a-2c9ece21e929"/><relation name="acquaintance_of" active="recogito-4afc16c3-7102-4b5c-81a7-df6350741e44" passive="recogito-2a8c0c60-a618-4800-a182-b0d0da1d6688"/><relation name="acquaintance_of" active="recogito-4afc16c3-7102-4b5c-81a7-df6350741e44" passive="recogito-8b894bed-0df3-486e-bd61-bafe5b9d191c"/><relation name="acquaintance_of" active="recogito-4afc16c3-7102-4b5c-81a7-df6350741e44" passive="recogito-34c24f3e-f7fe-4433-86dc-63ee7e54fa55"/><relation name="father_of" active="recogito-9494c6e2-656e-438b-93b1-771bc4b5e372" passive="recogito-7f2ab152-4572-4848-b6da-7cbda60dd34d"/><relation name="acquaintance_of" active="recogito-741653f3-dee7-4804-9c2a-2c9ece21e929" passive="recogito-8b894bed-0df3-486e-bd61-bafe5b9d191c"/><relation name="daughter_of" active="recogito-a7b11deb-5747-4e8d-919f-9af51f03b95b" passive="recogito-24962163-b64e-4831-a929-dcc1a2aec98d"/><relation name="husband_of" active="recogito-e00d49e1-a254-4f24-82c9-2a1db9e45b71" passive="recogito-bbcbe3f3-d0a4-4c71-ba08-42c4dcee0e80"/><relation name="husband_of" active="recogito-23278e42-6a4c-42ce-9eba-bef71f3d579e" passive="recogito-23506f5d-3890-41c9-b459-3739e61acbaf"/><relation name="daughter_of" active="recogito-23506f5d-3890-41c9-b459-3739e61acbaf" passive="recogito-ab66fad1-8a37-4877-87b4-d9b7c6218493"/><relation name="ally_of" active="recogito-307f4272-7761-4e7b-81c3-64747e1fbbc6" passive="recogito-ed93f42a-a49a-4ca5-a084-aa34fe2f90c2"/><relation name="father_of" active="recogito-08a98479-b83f-4179-ac2b-e1733908bee5" passive="recogito-f6053ef2-283b-4c86-92d0-d07e83084439"/><relation name="friend_of" active="recogito-7f7db51f-cf82-41c5-8c4c-846397a855f8" passive="recogito-5ce9ae64-432b-4ebf-bc20-03e40b055096"/><relation name="foster_father_of" active="recogito-7f7db51f-cf82-41c5-8c4c-846397a855f8" passive="recogito-f8278d19-5fee-4a18-9ae6-4835f306417c"/><relation name="wife_of" active="recogito-b8204da8-67e9-43f3-8172-0b0e0c10e83a" passive="recogito-0c373414-51b1-49dd-b691-ef045e6fc4a9"/><relation name="father_of" active="recogito-7c6b9e69-193b-420d-be83-1e4b3e63d96c" passive="recogito-f4259bb6-ccc1-4c2c-80fe-05f8147c212d"/><relation name="father_of" active="recogito-9878a5fe-4215-4799-877d-a9e70c532a8e" passive="recogito-72f15a41-4060-41e0-9b47-5d5f6a2928bf"/><relation name="wife_of" active="recogito-07a0348f-1398-48a9-a924-8e465876cf79" passive="recogito-7f7db51f-cf82-41c5-8c4c-846397a855f8"/><relation name="foster_mother_of" active="recogito-07a0348f-1398-48a9-a924-8e465876cf79" passive="recogito-f8278d19-5fee-4a18-9ae6-4835f306417c"/><relation name="acquaintance_of" active="recogito-4026eea2-388b-4273-8d01-eb16c3f6eca3" passive="recogito-61e6717f-61eb-40a8-8804-bfc07ca8c790"/><relation name="mother_of" active="recogito-a5c14dcd-a237-4fd7-a76f-d6be31722207" passive="recogito-4732fcf7-a9e3-427a-8e5e-6400a8ade0f2"/><relation name="mother_of" active="recogito-a5c14dcd-a237-4fd7-a76f-d6be31722207" passive="recogito-1bfcb701-e9d9-45a5-991a-bb1250387a5b"/><relation name="father_of" active="recogito-206cae1e-4833-4560-92d1-56694f4a2417" passive="recogito-1bfcb701-e9d9-45a5-991a-bb1250387a5b"/><relation name="father_of" active="recogito-206cae1e-4833-4560-92d1-56694f4a2417" passive="recogito-4732fcf7-a9e3-427a-8e5e-6400a8ade0f2"/><relation name="employee_of" active="recogito-0563d77f-08fe-42d8-9219-aee7305917b2" passive="recogito-274a5fcd-f444-435b-b308-f7aebb81193e"/><relation name="father_of" active="recogito-10c2615f-2604-44fb-8503-9df89aaaeb15" passive="recogito-8b894bed-0df3-486e-bd61-bafe5b9d191c"/><relation name="father_of" active="recogito-6a95288c-b392-40a3-83bf-b07671ccdc92" passive="recogito-741653f3-dee7-4804-9c2a-2c9ece21e929"/><relation name="acquaintance_of" active="recogito-002cbc6f-1257-4852-9b7b-98b859ac216c" passive="recogito-9a82c196-94b0-4b70-89ed-580914d046fe"/><relation name="acquaintance_of" active="recogito-d202e27d-674f-47f1-806e-9631dd71f6a1" passive="recogito-826a2563-1da9-4c40-99e5-18b8515fef85"/><relation name="acquaintance_of" active="recogito-d202e27d-674f-47f1-806e-9631dd71f6a1" passive="recogito-625446f0-2ba6-417f-9aee-c3b1e1a960e5"/><relation name="friend_of" active="recogito-1c8f1fb8-b754-45c2-85b0-c3c3ada78612" passive="recogito-15ce7939-e633-40c6-8740-79fa90004dc5"/><relation name="son_of" active="recogito-0522265c-c9d5-40d0-bd1e-76e528b7e44a" passive="recogito-15ce7939-e633-40c6-8740-79fa90004dc5"/><relation name="daughter_of" active="recogito-8b70d36a-b7d6-442e-9178-b64bf1dd1f4a" passive="recogito-f505ceff-d0b2-4656-b47e-064b8c024a5d"/><relation name="son_of" active="recogito-a1028467-e1d9-4e53-b524-76dc49c1e4fd" passive="recogito-18b06352-3d6d-46c5-bf76-dd4cccbbb3a5"/><relation name="husband_of" active="recogito-0525aab0-e5e1-441e-abff-afa8a8a3eda9" passive="recogito-eb1552ad-0722-4e12-8a5d-ac4c0f9214da"/><relation name="acquaintance_of" active="recogito-274a5fcd-f444-435b-b308-f7aebb81193e" passive="recogito-0525aab0-e5e1-441e-abff-afa8a8a3eda9"/><relation name="acquaintance_of" active="recogito-274a5fcd-f444-435b-b308-f7aebb81193e" passive="recogito-5e23588f-0e4b-4d5a-bf27-bc430b836100"/><relation name="ally_of" active="recogito-ee851cd3-db5c-401e-b446-ebb3f69e6f73" passive="recogito-d4313a56-b890-4e24-8be9-107275988079"/><relation name="brother_of" active="recogito-0ce7ac1e-ac81-4a8b-ad21-1623d1c544a9" passive="recogito-19cd693a-13c2-4f4d-a336-f8908b039b7a"/><relation name="father_of" active="recogito-19548960-4879-4339-a8fe-e49dfe172d91" passive="recogito-a9f72942-c0a5-45d2-82a7-226db1f78f4a"/><relation name="ally_of" active="recogito-bdc43fd0-e33d-4cc4-871b-6b8749efe185" passive="recogito-b15df504-32ff-4ad7-a67c-2ee19104797c"/><relation name="ally_of" active="recogito-b73cbf2c-66e7-4eb6-a69f-0e2b026ec30a" passive="recogito-b15df504-32ff-4ad7-a67c-2ee19104797c"/><relation name="friend_of" active="recogito-72f15a41-4060-41e0-9b47-5d5f6a2928bf" passive="recogito-7f7db51f-cf82-41c5-8c4c-846397a855f8"/><relation name="acquaintance_of" active="recogito-0bb71c9e-4f73-4f1c-a650-5f6b5b1b62e5" passive="recogito-7285ab95-655c-4829-838b-946b08a86468"/><relation name="wife_of" active="recogito-f6053ef2-283b-4c86-92d0-d07e83084439" passive="recogito-46e7c1a3-fcdb-4009-9b07-8f61784db767"/><relation name="mother_of" active="recogito-3d24da47-6d6b-4137-b846-5901bbf223fa" passive="recogito-b8204da8-67e9-43f3-8172-0b0e0c10e83a"/><relation name="wife_of" active="recogito-3d24da47-6d6b-4137-b846-5901bbf223fa" passive="recogito-aac75c02-63e3-4b39-be82-377222d93209"/><relation name="father_of" active="recogito-924c6107-8447-42b6-87b4-859acd90094b" passive="recogito-829bff20-c8d5-4b56-96b4-72f1faa0a4b7"/><relation name="father_of" active="recogito-10fe9d86-a194-4b55-9715-4fc5712e6c74" passive="recogito-d6e65b55-faf5-4718-8daa-3e1a668edb48"/><relation name="master_of" active="recogito-adfbf632-4954-495a-81d1-30906256fa62" passive="recogito-60e66e12-7291-41e6-8f6a-84de84bf4bb7"/><relation name="brother_of" active="recogito-df82700d-5133-4a2e-b0ae-37d34f9cc7b2" passive="recogito-adfbf632-4954-495a-81d1-30906256fa62"/><relation name="father_of" active="recogito-ffbd7c88-6205-4321-b612-7c72d7090af2" passive="recogito-1b66942f-7847-41c9-8ed9-08c0bd9ea0f8"/><relation name="father_of" active="recogito-6d6611ca-6445-4f79-aee2-1f899c48fafb" passive="recogito-aac75c02-63e3-4b39-be82-377222d93209"/><relation name="victim_of" active="recogito-94c8b46b-dbf5-466a-ba51-eaec02ff3802" passive="recogito-eb15cc61-76b1-4773-b7a8-20951e39ff24"/><relation name="acquaintance_of" active="recogito-34c24f3e-f7fe-4433-86dc-63ee7e54fa55" passive="recogito-57ffaf18-7bed-4a04-83bb-4e556aa0f169"/><relation name="daughter_of" active="recogito-db7c7e15-bbbb-4f30-ac02-770c6017cbd1" passive="recogito-db581eb6-4289-4829-97c1-23eeb37734e4"/><relation name="son_of" active="recogito-7a396f46-814c-4b10-8648-9875901bd5c0" passive="recogito-67a40ebe-2784-4fb5-af30-27c2884fe1f2"/><relation name="son_of" active="recogito-db581eb6-4289-4829-97c1-23eeb37734e4" passive="recogito-984afbb8-48dc-468c-aa18-424a6b1a6e8e"/><relation name="son_of" active="recogito-db581eb6-4289-4829-97c1-23eeb37734e4" passive="recogito-de7a0c6d-c64c-4ef8-9581-a847230160a5"/><relation name="husband_of" active="recogito-be9c8175-793a-42ab-ab09-a4016366d6e7" passive="recogito-8b70d36a-b7d6-442e-9178-b64bf1dd1f4a"/><relation name="father_of" active="recogito-4e0a6c1e-366e-4fd7-9d94-36af246d3031" passive="recogito-34c24f3e-f7fe-4433-86dc-63ee7e54fa55"/><relation name="son_of" active="recogito-18b06352-3d6d-46c5-bf76-dd4cccbbb3a5" passive="recogito-984afbb8-48dc-468c-aa18-424a6b1a6e8e"/><relation name="son_of" active="recogito-18b06352-3d6d-46c5-bf76-dd4cccbbb3a5" passive="recogito-de7a0c6d-c64c-4ef8-9581-a847230160a5"/><relation name="acquaintance_of" active="recogito-625446f0-2ba6-417f-9aee-c3b1e1a960e5" passive="recogito-826a2563-1da9-4c40-99e5-18b8515fef85"/><relation name="sister_of" active="recogito-3ff8f3a7-6aa5-41eb-986a-bd121ae84177" passive="recogito-f6053ef2-283b-4c86-92d0-d07e83084439"/><relation name="daughter_of" active="recogito-3ff8f3a7-6aa5-41eb-986a-bd121ae84177" passive="recogito-08a98479-b83f-4179-ac2b-e1733908bee5"/><relation name="enemy_of" active="recogito-a5e2d58c-0b39-498b-977f-3f1472430017" passive="recogito-eb15cc61-76b1-4773-b7a8-20951e39ff24"/><relation name="enemy_of" active="recogito-f18ee64a-99be-4d73-b75d-c6c1f0a4bdfb" passive="recogito-eb15cc61-76b1-4773-b7a8-20951e39ff24"/><relation name="friend_of" active="recogito-12db7a6e-ac2e-439b-bdc3-f64fb38b7f12" passive="recogito-7fab3d5d-ad67-4880-9ee5-4c0ede6b91fe"/><relation name="wife_of" active="recogito-73630d52-9328-4dcc-84f6-22d615d26743" passive="recogito-5ce9ae64-432b-4ebf-bc20-03e40b055096"/><relation name="father_of" active="recogito-bece8c72-f423-4a15-8396-b8331c95a9d5" passive="recogito-adfbf632-4954-495a-81d1-30906256fa62"/><relation name="son_of" active="recogito-ed93f42a-a49a-4ca5-a084-aa34fe2f90c2" passive="recogito-adfbf632-4954-495a-81d1-30906256fa62"/><relation name="husband_of" active="recogito-ec2400dd-bce1-4192-86dc-321eb111d762" passive="recogito-adfbf632-4954-495a-81d1-30906256fa62"/><relation name="father_of" active="recogito-ec2400dd-bce1-4192-86dc-321eb111d762" passive="recogito-ed93f42a-a49a-4ca5-a084-aa34fe2f90c2"/><relation name="father_of" active="recogito-829bff20-c8d5-4b56-96b4-72f1faa0a4b7" passive="recogito-10fe9d86-a194-4b55-9715-4fc5712e6c74"/><relation name="father_of" active="recogito-aac75c02-63e3-4b39-be82-377222d93209" passive="recogito-b8204da8-67e9-43f3-8172-0b0e0c10e83a"/><relation name="father_of" active="recogito-60e66e12-7291-41e6-8f6a-84de84bf4bb7" passive="recogito-19cd693a-13c2-4f4d-a336-f8908b039b7a"/><relation name="father_of" active="recogito-60e66e12-7291-41e6-8f6a-84de84bf4bb7" passive="recogito-0ce7ac1e-ac81-4a8b-ad21-1623d1c544a9"/><relation name="father_of" active="recogito-c389c442-5f0c-4132-8bec-4577d07c5cae" passive="recogito-0c373414-51b1-49dd-b691-ef045e6fc4a9"/><relation name="father_of" active="recogito-1b66942f-7847-41c9-8ed9-08c0bd9ea0f8" passive="recogito-c389c442-5f0c-4132-8bec-4577d07c5cae"/><relation name="kinsman_of" active="recogito-7a2594d2-4fda-4de4-ae18-95c6693b4ff6" passive="recogito-a5e2d58c-0b39-498b-977f-3f1472430017"/><relation name="victim_of" active="recogito-7a2594d2-4fda-4de4-ae18-95c6693b4ff6" passive="recogito-eb15cc61-76b1-4773-b7a8-20951e39ff24"/><relation name="daughter_of" active="recogito-ab66fad1-8a37-4877-87b4-d9b7c6218493" passive="recogito-ed93f42a-a49a-4ca5-a084-aa34fe2f90c2"/><relation name="mother_of" active="recogito-8a447bac-cddf-4cb8-b248-1e2d8a71eec4" passive="recogito-97275ef1-4700-4f44-a295-8378777e8f4a"/><relation name="father_of" active="recogito-5f83b38c-de81-4707-afa7-3c8291b97a8d" passive="recogito-97275ef1-4700-4f44-a295-8378777e8f4a"/><relation name="daughter_of" active="recogito-67a40ebe-2784-4fb5-af30-27c2884fe1f2" passive="recogito-a1028467-e1d9-4e53-b524-76dc49c1e4fd"/>
+          </listRelation>
+        </ab>
+                </particDesc>
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="http://sws.geonames.org/2666238">
+              <placeName>Upplands Väsby</placeName>
+            </place><place xml:id="http://sws.geonames.org/2964574">
+              <placeName>Dublin</placeName>
+            </place><place xml:id="http://sws.geonames.org/3425505">
+              <placeName>Greenland</placeName>
+            </place><place xml:id="http://sws.geonames.org/2639110">
+              <placeName>Ross on Wye</placeName>
+            </place><place xml:id="http://geo-kima.org/place/6310">
+              <placeName>Norway</placeName>
+            </place><place xml:id="http://geo-kima.org/place/10767">
+              <placeName>Moray (Scotland)</placeName>
+            </place><place xml:id="http://geo-kima.org/place/1264">
+              <placeName>Hebrides (Scotland)</placeName>
+            </place><place xml:id="http://geo-kima.org/place/9884">
+              <placeName>Iceland</placeName>
+            </place><place xml:id="http://geo-kima.org/place/7885">
+              <placeName>Ireland</placeName>
+            </place><place xml:id="http://geo-kima.org/place/6242">
+              <placeName>Sutherland (Scotland)</placeName>
+            </place><place xml:id="http://geo-kima.org/place/24752">
+              <placeName>Caithness Region (Scotland)</placeName>
+            </place><place xml:id="http://sws.geonames.org/2638360">
+              <placeName>Scotland</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            <classDecl>
+                <taxonomy>
+          <category xml:id="Bjorn Buna">
+              <catDesc>Bjorn Buna</catDesc>
+            </category><category xml:id="Halfdan Olafsson White-leg">
+              <catDesc>Halfdan Olafsson White-leg</catDesc>
+            </category><category xml:id="Odd of Jorvi">
+              <catDesc>Odd of Jorvi</catDesc>
+            </category><category xml:id="Eirik Thorvaldsson the Red marries Thjodhild Jorundardottir">
+              <catDesc>Eirik Thorvaldsson the Red marries Thjodhild Jorundardottir</catDesc>
+            </category><category xml:id="Halldis">
+              <catDesc>Halldis</catDesc>
+            </category><category xml:id="Norway">
+              <catDesc>Norway</catDesc>
+            </category><category xml:id="Bishop Thorlak Runolfsson">
+              <catDesc>Bishop Thorlak Runolfsson</catDesc>
+            </category><category xml:id="Einar Thorgeirsson">
+              <catDesc>Einar Thorgeirsson</catDesc>
+            </category><category xml:id="Foreman Gardi dies">
+              <catDesc>Foreman Gardi dies</catDesc>
+            </category><category xml:id="Thorbjorn Vifilsson marries Hallveig Einarsdottir">
+              <catDesc>Thorbjorn Vifilsson marries Hallveig Einarsdottir</catDesc>
+            </category><category xml:id="Jorund Atlason">
+              <catDesc>Jorund Atlason</catDesc>
+            </category><category xml:id="Ulf Hreidarsson Crow">
+              <catDesc>Ulf Hreidarsson Crow</catDesc>
+            </category><category xml:id="Filth-Eyjolf dies">
+              <catDesc>Filth-Eyjolf dies</catDesc>
+            </category><category xml:id="Thorstein Eiriksson the Red marries Gudrid Thorbjarnardottir">
+              <catDesc>Thorstein Eiriksson the Red marries Gudrid Thorbjarnardottir</catDesc>
+            </category><category xml:id="Thorvald Asvaldsson dies">
+              <catDesc>Thorvald Asvaldsson dies</catDesc>
+            </category><category xml:id="Grimolf">
+              <catDesc>Grimolf</catDesc>
+            </category><category xml:id="Earl Sigurd the Powerful">
+              <catDesc>Earl Sigurd the Powerful</catDesc>
+            </category><category xml:id="Asvald Ulfsson">
+              <catDesc>Asvald Ulfsson</catDesc>
+            </category><category xml:id="Leif Eiriksson the Lucky">
+              <catDesc>Leif Eiriksson the Lucky</catDesc>
+            </category><category xml:id="Groa Thorsteinsdottir">
+              <catDesc>Groa Thorsteinsdottir</catDesc>
+            </category><category xml:id="King Valdidida of Markland">
+              <catDesc>King Valdidida of Markland</catDesc>
+            </category><category xml:id="Thorvard">
+              <catDesc>Thorvard</catDesc>
+            </category><category xml:id="Thorhall the Huntsman">
+              <catDesc>Thorhall the Huntsman</catDesc>
+            </category><category xml:id="Thjodhild Jorundardottir">
+              <catDesc>Thjodhild Jorundardottir</catDesc>
+            </category><category xml:id="Uplands in Norway">
+              <catDesc>Uplands in Norway</catDesc>
+            </category><category xml:id="Orm of Arnarstapi dies">
+              <catDesc>Orm of Arnarstapi dies</catDesc>
+            </category><category xml:id="King Ingjald Helgason">
+              <catDesc>King Ingjald Helgason</catDesc>
+            </category><category xml:id="Thorstein the Black">
+              <catDesc>Thorstein the Black</catDesc>
+            </category><category xml:id="Vethild of Markland">
+              <catDesc>Vethild of Markland</catDesc>
+            </category><category xml:id="Gudrid Thorbjanardottir">
+              <catDesc>Gudrid Thorbjanardottir</catDesc>
+            </category><category xml:id="Snorri">
+              <catDesc>Snorri</catDesc>
+            </category><category xml:id="Ox-Thorir">
+              <catDesc>Ox-Thorir</catDesc>
+            </category><category xml:id="Vifil">
+              <catDesc>Vifil</catDesc>
+            </category><category xml:id="Dublin">
+              <catDesc>Dublin</catDesc>
+            </category><category xml:id="Geirstein of Jorvi">
+              <catDesc>Geirstein of Jorvi</catDesc>
+            </category><category xml:id="Gunnbjorn Ulfsson">
+              <catDesc>Gunnbjorn Ulfsson</catDesc>
+            </category><category xml:id="Thord Olafsson Bellower">
+              <catDesc>Thord Olafsson Bellower</catDesc>
+            </category><category xml:id="Arnora Einarsdottir">
+              <catDesc>Arnora Einarsdottir</catDesc>
+            </category><category xml:id="Aud Ketilsdottir the Deep-minded">
+              <catDesc>Aud Ketilsdottir the Deep-minded</catDesc>
+            </category><category xml:id="Oleif Ingjaldsson the White">
+              <catDesc>Oleif Ingjaldsson the White</catDesc>
+            </category><category xml:id="Thorhall the Huntsman dies">
+              <catDesc>Thorhall the Huntsman dies</catDesc>
+            </category><category xml:id="Einar Sigmundarson">
+              <catDesc>Einar Sigmundarson</catDesc>
+            </category><category xml:id="Thorstein Eiriksson the Red dies">
+              <catDesc>Thorstein Eiriksson the Red dies</catDesc>
+            </category><category xml:id="Thorstein Oleifsson the Red">
+              <catDesc>Thorstein Oleifsson the Red</catDesc>
+            </category><category xml:id="Thorvald Eiriksson">
+              <catDesc>Thorvald Eiriksson</catDesc>
+            </category><category xml:id="Haki">
+              <catDesc>Haki</catDesc>
+            </category><category xml:id="Snorri Thorfinnsson">
+              <catDesc>Snorri Thorfinnsson</catDesc>
+            </category><category xml:id="Atli">
+              <catDesc>Atli</catDesc>
+            </category><category xml:id="Hallfrid Snorradottir">
+              <catDesc>Hallfrid Snorradottir</catDesc>
+            </category><category xml:id="King Olaf Tryggvason of Norway">
+              <catDesc>King Olaf Tryggvason of Norway</catDesc>
+            </category><category xml:id="Bjarni Grimolfsson">
+              <catDesc>Bjarni Grimolfsson</catDesc>
+            </category><category xml:id="Snorri Thorbrandsson">
+              <catDesc>Snorri Thorbrandsson</catDesc>
+            </category><category xml:id="Thorbjorn Thorfinnsson">
+              <catDesc>Thorbjorn Thorfinnsson</catDesc>
+            </category><category xml:id="Thorstein Oleifsson the Red dies">
+              <catDesc>Thorstein Oleifsson the Red dies</catDesc>
+            </category><category xml:id="Ketil Bjarnarson Flat-nose">
+              <catDesc>Ketil Bjarnarson Flat-nose</catDesc>
+            </category><category xml:id="Grelod">
+              <catDesc>Grelod</catDesc>
+            </category><category xml:id="Thorhall Gamlason">
+              <catDesc>Thorhall Gamlason</catDesc>
+            </category><category xml:id="Filth-Eyjolf">
+              <catDesc>Filth-Eyjolf</catDesc>
+            </category><category xml:id="Thord Snorrason Horse-head">
+              <catDesc>Thord Snorrason Horse-head</catDesc>
+            </category><category xml:id="Thorgeir of Thorgeirsfell">
+              <catDesc>Thorgeir of Thorgeirsfell</catDesc>
+            </category><category xml:id="Eystein Ivarsson Glumra">
+              <catDesc>Eystein Ivarsson Glumra</catDesc>
+            </category><category xml:id="Thurid Eyvindardottir">
+              <catDesc>Thurid Eyvindardottir</catDesc>
+            </category><category xml:id="Halldis dies">
+              <catDesc>Halldis dies</catDesc>
+            </category><category xml:id="Thorgeir Vifilsson">
+              <catDesc>Thorgeir Vifilsson</catDesc>
+            </category><category xml:id="Orkney Islands">
+              <catDesc>Orkney Islands</catDesc>
+            </category><category xml:id="Ulf">
+              <catDesc>Ulf</catDesc>
+            </category><category xml:id="Gudrod Halfdanarson">
+              <catDesc>Gudrod Halfdanarson</catDesc>
+            </category><category xml:id="Thorvald Eiriksson dies">
+              <catDesc>Thorvald Eiriksson dies</catDesc>
+            </category><category xml:id="Illugi Aslaksson">
+              <catDesc>Illugi Aslaksson</catDesc>
+            </category><category xml:id="Earl Thorfinn Einarsson the Skull-splitter">
+              <catDesc>Earl Thorfinn Einarsson the Skull-splitter</catDesc>
+            </category><category xml:id="Thorvald Asvaldsson">
+              <catDesc>Thorvald Asvaldsson</catDesc>
+            </category><category xml:id="Sigrid">
+              <catDesc>Sigrid</catDesc>
+            </category><category xml:id="Thorbjorn Skjaldabjarnarson of Haukadal">
+              <catDesc>Thorbjorn Skjaldabjarnarson of Haukadal</catDesc>
+            </category><category xml:id="Yngveld Thorgeirsdottir">
+              <catDesc>Yngveld Thorgeirsdottir</catDesc>
+            </category><category xml:id="Thorfinn Thordarson Karlsefni">
+              <catDesc>Thorfinn Thordarson Karlsefni</catDesc>
+            </category><category xml:id="Thorstein Eiriksson the Red">
+              <catDesc>Thorstein Eiriksson the Red</catDesc>
+            </category><category xml:id="Ketil Thistle">
+              <catDesc>Ketil Thistle</catDesc>
+            </category><category xml:id="Runolf">
+              <catDesc>Runolf</catDesc>
+            </category><category xml:id="Helgi Eyvindarson the Lean">
+              <catDesc>Helgi Eyvindarson the Lean</catDesc>
+            </category><category xml:id="Vinland">
+              <catDesc>Vinland</catDesc>
+            </category><category xml:id="Moray">
+              <catDesc>Moray</catDesc>
+            </category><category xml:id="Thorgeir Vifilsson marries Arnora Einarsdottir">
+              <catDesc>Thorgeir Vifilsson marries Arnora Einarsdottir</catDesc>
+            </category><category xml:id="Sigrid dies">
+              <catDesc>Sigrid dies</catDesc>
+            </category><category xml:id="Scotland">
+              <catDesc>Scotland</catDesc>
+            </category><category xml:id="Thorgeir Thorhallsson of Hitardal">
+              <catDesc>Thorgeir Thorhallsson of Hitardal</catDesc>
+            </category><category xml:id="Bishop Brand Saemundarson">
+              <catDesc>Bishop Brand Saemundarson</catDesc>
+            </category><category xml:id="Hekja">
+              <catDesc>Hekja</catDesc>
+            </category><category xml:id="King Avaldamon of Markland">
+              <catDesc>King Avaldamon of Markland</catDesc>
+            </category><category xml:id="Thorbjorn Skjaldabjarnarson marries Thorbjorg Gilsdottir Ship-breast">
+              <catDesc>Thorbjorn Skjaldabjarnarson marries Thorbjorg Gilsdottir Ship-breast</catDesc>
+            </category><category xml:id="Thorbjorn Vifilsson dies">
+              <catDesc>Thorbjorn Vifilsson dies</catDesc>
+            </category><category xml:id="Thorkel of Herjolfsnes">
+              <catDesc>Thorkel of Herjolfsnes</catDesc>
+            </category><category xml:id="Earl Thorfinn Einarsson the Skull-splitter marries Grelod">
+              <catDesc>Earl Thorfinn Einarsson the Skull-splitter marries Grelod</catDesc>
+            </category><category xml:id="Thorfinn Thordarson Karlsefni marries Gudrid Thorbjarnardottir">
+              <catDesc>Thorfinn Thordarson Karlsefni marries Gudrid Thorbjarnardottir</catDesc>
+            </category><category xml:id="Gamli">
+              <catDesc>Gamli</catDesc>
+            </category><category xml:id="Ingolf Anason">
+              <catDesc>Ingolf Anason</catDesc>
+            </category><category xml:id="Foreman Gardi">
+              <catDesc>Foreman Gardi</catDesc>
+            </category><category xml:id="Sutherland">
+              <catDesc>Sutherland</catDesc>
+            </category><category xml:id="Ross">
+              <catDesc>Ross</catDesc>
+            </category><category xml:id="Oleif Ingjaldsson the White dies">
+              <catDesc>Oleif Ingjaldsson the White dies</catDesc>
+            </category><category xml:id="Orm of Arnarstapi">
+              <catDesc>Orm of Arnarstapi</catDesc>
+            </category><category xml:id="Thorbjorn Skjaldabjarnarson">
+              <catDesc>Thorbjorn Skjaldabjarnarson</catDesc>
+            </category><category xml:id="Thorbjorg 'Little Prophetess'">
+              <catDesc>Thorbjorg 'Little Prophetess'</catDesc>
+            </category><category xml:id="Hebrides Islands">
+              <catDesc>Hebrides Islands</catDesc>
+            </category><category xml:id="Thorgeir Snorrason">
+              <catDesc>Thorgeir Snorrason</catDesc>
+            </category><category xml:id="Greenland">
+              <catDesc>Greenland</catDesc>
+            </category><category xml:id="Sigmund Ketilsson">
+              <catDesc>Sigmund Ketilsson</catDesc>
+            </category><category xml:id="Freydis Eiriksdottir">
+              <catDesc>Freydis Eiriksdottir</catDesc>
+            </category><category xml:id="Hrafn the Dueller">
+              <catDesc>Hrafn the Dueller</catDesc>
+            </category><category xml:id="Oleif Ingjaldsson the White marries Aud Ketilsdottir the Deep-minded">
+              <catDesc>Oleif Ingjaldsson the White marries Aud Ketilsdottir the Deep-minded</catDesc>
+            </category><category xml:id="Ireland">
+              <catDesc>Ireland</catDesc>
+            </category><category xml:id="Thorbrand Snorrason">
+              <catDesc>Thorbrand Snorrason</catDesc>
+            </category><category xml:id="Eirik Thorvaldsson the Red is outlawed">
+              <catDesc>Eirik Thorvaldsson the Red is outlawed</catDesc>
+            </category><category xml:id="Hallveig Einarsdottir">
+              <catDesc>Hallveig Einarsdottir</catDesc>
+            </category><category xml:id="Iceland">
+              <catDesc>Iceland</catDesc>
+            </category><category xml:id="Aslak Thorbergsson of Langadal">
+              <catDesc>Aslak Thorbergsson of Langadal</catDesc>
+            </category><category xml:id="Valthjof">
+              <catDesc>Valthjof</catDesc>
+            </category><category xml:id="Eyvind the Easterner">
+              <catDesc>Eyvind the Easterner</catDesc>
+            </category><category xml:id="Styr Thorgrimsson">
+              <catDesc>Styr Thorgrimsson</catDesc>
+            </category><category xml:id="Ovaegi of Markland">
+              <catDesc>Ovaegi of Markland</catDesc>
+            </category><category xml:id="Thorbjorn Vifilsson">
+              <catDesc>Thorbjorn Vifilsson</catDesc>
+            </category><category xml:id="Caithness">
+              <catDesc>Caithness</catDesc>
+            </category><category xml:id="Thorunn">
+              <catDesc>Thorunn</catDesc>
+            </category><category xml:id="Helgi Olafsson">
+              <catDesc>Helgi Olafsson</catDesc>
+            </category><category xml:id="Thorbrand Thorfinnsson of Alftafjord">
+              <catDesc>Thorbrand Thorfinnsson of Alftafjord</catDesc>
+            </category><category xml:id="Thorgest Steinsson">
+              <catDesc>Thorgest Steinsson</catDesc>
+            </category><category xml:id="Bishop Bjorn Gilsson">
+              <catDesc>Bishop Bjorn Gilsson</catDesc>
+            </category><category xml:id="Eyjolf Aesuson of Sviney">
+              <catDesc>Eyjolf Aesuson of Sviney</catDesc>
+            </category><category xml:id="Thorbjorg Gilsdottir Ship-breast">
+              <catDesc>Thorbjorg Gilsdottir Ship-breast</catDesc>
+            </category><category xml:id="Eirik Thorvaldsson the Red">
+              <catDesc>Eirik Thorvaldsson the Red</catDesc>
+            </category><category xml:id="Thorunn Thorbjarnardottir">
+              <catDesc>Thorunn Thorbjarnardottir</catDesc>
+            </category><category xml:id="Bjorn Ketilsson">
+              <catDesc>Bjorn Ketilsson</catDesc>
+            </category><category xml:id="Olaf Gudrodarson">
+              <catDesc>Olaf Gudrodarson</catDesc>
+            </category>
+        </taxonomy>
+              </classDecl>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p>﻿The Project Gutenberg EBook of Eirik the Red's Saga, by Anonymous</p><p>This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org</p><p>
+Title: Eirik the Red's Saga</p><p>Author: Anonymous</p><p>Translator: John Sephton</p><p>Release Date: March 8, 2006 [EBook #17946]</p><p>Language: English</p><p>Character set encoding: UTF-8</p><p>*** START OF THIS PROJECT GUTENBERG EBOOK EIRIK THE RED'S SAGA ***</p><p></p><p>
+Produced by National Library of Iceland and Cornell
+University Library via www.sagnanet.is, Jóhannes Birgir
+Jensson, Sankar Viswanathan, and the Online Distributed
+Proofreading Team of Distributed Proofreaders Europe at
+http://dp.rastko.net</p><p></p><p></p><p></p><p></p><p>                        EIRIK THE RED'S SAGA:</p><p>                            A TRANSLATION</p><p></p><p>                           READ BEFORE THE
+                  LITERARY AND PHILOSOPHICAL SOCIETY
+                            OF LIVERPOOL,</p><p>                         JANUARY 12TH, 1880,</p><p></p><p>                                  BY
+                         THE REV. J. SEPHTON.</p><p></p><p>
+                              LIVERPOOL:
+             D. MARPLES &amp; CO., LIMITED, MELVILL CHAMBERS.</p><p>                                1880.</p><p></p><p>
+CONTENTS.</p><p>
+1. How Vifil, Gudrid's grandfather, came to Iceland.</p><p>2. Of Eirik the Red, and his discovery of Greenland.</p><p>3. Gudrid's parentage, and the emigration of her father, Thorbjorn,
+and his family to Greenland.</p><p>4. Eirik's family, and his son Leif's discovery of Vinland.</p><p>5. Gudrid marries Thorstein, son of Eirik the Red. [Sickness and
+death of Thorstein.]</p><p>6. Gudrid marries Karlsefni.</p><p>7. Karlsefni's expedition to Vinland. The first winter is passed at
+Straumsfjordr.</p><p>8. Fate of Thorhall the Sportsman.</p><p>9. The second winter is passed at Hop.</p><p>10. Dealings with the Skrœlingar.</p><p>11. Fight with the Skrœlingar.</p><p>12. Return to Straumsfjordr.</p><p>13. The slaying of Thorvald by a One-footer. The colonists return
+to Greenland after passing the third winter at Straumsfjordr.</p><p>14. Heroic magnanimity and fate of Bjarni.</p><p>15. Gudrid's descendants.</p><p></p><p>
+[<persName xml:id="recogito-305be4dc-e903-40c1-bb72-948acca5705d" ana="#Oleif Ingjaldsson the White">Olaf</persName>, who was called <persName xml:id="recogito-ec2400dd-bce1-4192-86dc-321eb111d762" ana="#Oleif Ingjaldsson the White">Olaf the White</persName>, was styled a warrior king. He
+was the son of <persName xml:id="recogito-d6e65b55-faf5-4718-8daa-3e1a668edb48" ana="#King Ingjald Helgason">King Ingjald</persName>, the son of <persName xml:id="recogito-10fe9d86-a194-4b55-9715-4fc5712e6c74" ana="#Helgi Olafsson">Helgi</persName>, the son of <persName xml:id="recogito-829bff20-c8d5-4b56-96b4-72f1faa0a4b7" ana="#Olaf Gudrodarson">Olaf</persName>, the
+son of <persName xml:id="recogito-924c6107-8447-42b6-87b4-859acd90094b" ana="#Gudrod Halfdanarson">Gudred</persName>, the son of <persName xml:id="recogito-83b73939-4668-4628-ad81-a5624cd7f0e4" ana="#Halfdan Olafsson White-leg">Halfdan Whiteleg</persName>, king of the <placeName ref="http://sws.geonames.org/2666238" xml:id="recogito-65e2d076-2e6e-4e6d-9371-9684a10705cb" ana="#Uplands in Norway" cert="low">Uplands</placeName> (in
+Norway). He led a harrying expedition of sea-rovers into the west, and
+conquered <placeName ref="http://sws.geonames.org/2964574" xml:id="recogito-9eadbed4-847b-489c-adcd-59da58b05f85" ana="#Dublin" cert="high">Dublin</placeName>, in <placeName ref="http://geo-kima.org/place/7885" xml:id="recogito-45355de1-2576-43a1-a6a1-c21c584ecdbe" ana="#Iceland #Ireland" cert="high">Ireland</placeName>, and Dublinshire, over which he made
+himself king. He <rs xml:id="recogito-4ce5b646-98d7-4d70-b9c2-3e8561785efe" type="event" ana="#Oleif Ingjaldsson the White marries Aud Ketilsdottir the Deep-minded">married Aud the Deep-minded</rs>, daughter of <persName xml:id="recogito-bece8c72-f423-4a15-8396-b8331c95a9d5" ana="#Ketil Bjarnarson Flat-nose">Ketil
+Flatnose</persName>, son of <persName xml:id="recogito-221b1254-c516-4384-9a12-c14b0de507cd" ana="#Bjorn Buna">Bjorn the Ungartered</persName>, a noble man from <placeName ref="http://geo-kima.org/place/6310" xml:id="recogito-463d019b-5843-4912-a059-d9553d8ed658" ana="#Norway" cert="high">Norway</placeName>. Their
+son was named <persName xml:id="recogito-ed93f42a-a49a-4ca5-a084-aa34fe2f90c2" ana="#Thorstein Oleifsson the Red">Thorstein the Red</persName>. <rs xml:id="recogito-69e4b874-16b8-4a52-9b8d-ac5da36e4b54" type="event" ana="#Oleif Ingjaldsson the White dies">Olaf fell in battle</rs> in Ireland, and
+then <persName xml:id="recogito-6685f7f3-18a0-40c2-bdcb-4a6f09b95095" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName> and <persName xml:id="recogito-30c3142c-8432-4894-8a16-818dcc81de41" ana="#Thorstein Oleifsson the Red">Thorstein</persName> went into the Sudreyjar (<placeName ref="http://geo-kima.org/place/1264" xml:id="recogito-e90e3b29-29e0-4f5b-ac57-fda909b0f2be" ana="#Hebrides Islands" cert="high">the Hebrides</placeName>). There
+<persName xml:id="recogito-46e7c1a3-fcdb-4009-9b07-8f61784db767" ana="#Thorstein Oleifsson the Red">Thorstein</persName> married <persName xml:id="recogito-f6053ef2-283b-4c86-92d0-d07e83084439" ana="#Thurid Eyvindardottir">Thorid</persName>, daughter of <persName xml:id="recogito-08a98479-b83f-4179-ac2b-e1733908bee5" ana="#Eyvind the Easterner">Eyvind the Easterling</persName>, sister of
+<persName xml:id="recogito-3ff8f3a7-6aa5-41eb-986a-bd121ae84177" ana="#Helgi Eyvindarson the Lean">Helgi the Lean</persName>; and they had many children. <persName xml:id="recogito-d34258bf-2463-4192-88e5-035d8d6b4164" ana="#Thorstein Oleifsson the Red">Thorstein</persName> became a warrior
+king, and formed an alliance with <persName xml:id="recogito-307f4272-7761-4e7b-81c3-64747e1fbbc6" ana="#Earl Sigurd the Powerful">Earl Sigurd the Great</persName>, son of
+<persName xml:id="recogito-311594fa-9367-437a-bd5b-fa75ab931b7a" ana="#Eystein Ivarsson Glumra">Eystein the Rattler</persName>. They conquered <placeName ref="http://geo-kima.org/place/24752" xml:id="recogito-e18a2e8c-b15d-4845-873a-8b557564d849" ana="#Caithness" cert="high">Caithness</placeName>, <placeName ref="http://geo-kima.org/place/6242" xml:id="recogito-38c162da-ec2e-4549-b541-0df0b2de5f54" ana="#Sutherland" cert="high">Sutherland</placeName>, <placeName ref="http://sws.geonames.org/2639110" xml:id="recogito-5ab8dd70-bcf5-4771-83aa-38281fee7b30" ana="#Ross" cert="high">Ross</placeName>, and
+<placeName ref="http://geo-kima.org/place/10767" xml:id="recogito-052749f0-138c-4567-8474-96982a080357" ana="#Moray" cert="high">Moray</placeName>, and more than half <placeName ref="http://sws.geonames.org/2638360" xml:id="recogito-b2db09c5-26f2-4978-9da9-349e6a83f71a" ana="#Scotland" cert="high">Scotland</placeName>. Over these <persName xml:id="recogito-6cfce218-19aa-43d2-9dbc-5b4d4cd9a6f3" ana="#Thorstein Oleifsson the Red">Thorstein</persName> was king
+until the Scots plotted against him, and <rs xml:id="recogito-09d68dd2-7f3b-4b6b-9e51-fd3b4671617c" type="event" ana="#Thorstein Oleifsson the Red dies">he fell there in battle</rs>. <persName xml:id="recogito-a33e583a-dbad-4dbe-91af-f66c8da41b0b" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName>
+was in <placeName ref="http://geo-kima.org/place/24752" xml:id="recogito-11b444fb-6363-4c30-a07f-253a69c2e073" ana="#Caithness" cert="high">Caithness</placeName> when she heard of <persName xml:id="recogito-0d7446bc-5dba-4d8d-9d84-1e405d40e23f" ana="#Thorstein Oleifsson the Red">Thorstein</persName>'s death. Then she caused
+a merchant-ship to be secretly built in the wood, and when she was
+ready, directed her course out into <placeName xml:id="recogito-bb1812c5-5f81-40c2-924e-0f13d3428ba8" ana="#Orkney Islands" cert="low">the Orkneys</placeName>. There she gave in
+marriage <persName xml:id="recogito-b7370a59-d24f-4430-9c95-9cc9c2952a56" ana="#Thorstein Oleifsson the Red">Thorstein the Red</persName>'s daughter, <persName xml:id="recogito-ab66fad1-8a37-4877-87b4-d9b7c6218493" ana="#Groa Thorsteinsdottir">Gro</persName>, who became mother of
+<rs xml:id="recogito-e7a4e0b0-5403-4f4d-a676-5e4b6cb595ce" type="event" ana="#Earl Thorfinn Einarsson the Skull-splitter marries Grelod">Grelad, whom Earl Thorfinn, the Skullcleaver, married</rs>. Afterwards <persName xml:id="recogito-13eb3ba2-6f45-48b2-a90f-c3f833e25be0" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName>
+set out to seek <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-ef0f6e08-03a6-45de-a6e2-1fb6d2f2f156" ana="#Iceland" cert="high">Iceland</placeName>, having twenty free men in her ship. <persName xml:id="recogito-084407ad-2587-4d9f-ba82-345b1de478f1" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName> came
+to <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-2c0de2e8-986c-4c07-a983-05a82dbd6e2d" ana="#Iceland" cert="high">Iceland</placeName>, and passed the first winter in Bjarnarhofn (Bjornshaven)
+with her brother <persName xml:id="recogito-df82700d-5133-4a2e-b0ae-37d34f9cc7b2" ana="#Bjorn Ketilsson">Bjorn</persName>. Afterwards she occupied all the Dale country
+between the Dogurdara (day-meal river) and the Skraumuhlaupsa (river
+of the giantess's leap), and dwelt at Hvamm. She had prayer meetings
+at Krossholar (Crosshills), where she caused crosses to be erected,
+for she was baptised and deeply devoted to the faith. There came with
+her to <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-fd68a03e-05bb-4026-a1dc-72eea036a451" ana="#Iceland" cert="high">Iceland</placeName> many men worthy of honour, who had been taken captive
+in sea-roving expeditions to the west, and who were called bondmen.
+One of these was named <persName xml:id="recogito-60e66e12-7291-41e6-8f6a-84de84bf4bb7" ana="#Vifil">Vifil</persName>; he was a man of high family, and had
+been taken captive beyond the western main, and was also called a
+bondman before <persName xml:id="recogito-070fe74b-079f-4492-8c92-09c542e89bd8" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName> set him free. And when <persName xml:id="recogito-30ed5011-ad28-4ab8-b0e8-81951dc254c1" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName> granted dwellings to her
+ship's company, <persName xml:id="recogito-93f6b0aa-dd5a-4bf6-a351-1d044623e70d" ana="#Vifil">Vifil</persName> asked why she gave no abode to him like unto the
+others. <persName xml:id="recogito-7393ddea-349b-49b6-bae7-13f23527c9f1" ana="#Aud Ketilsdottir the Deep-minded">Aud</persName> replied, “That it was of no moment to him, for,” she said,
+“he would be esteemed in whatever place he was, as one worthy of
+honour.” She gave him Vifilsdalr (Vifilsdale), and he dwelt there and
+married. His sons were <persName xml:id="recogito-19cd693a-13c2-4f4d-a336-f8908b039b7a" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> and <persName xml:id="recogito-0ce7ac1e-ac81-4a8b-ad21-1623d1c544a9" ana="#Thorgeir Vifilsson">Thorgeir</persName>, promising men, and they
+grew up in their father's house.</p><p>2. There was a man named <persName xml:id="recogito-c389c442-5f0c-4132-8bec-4577d07c5cae" ana="#Thorvald Asvaldsson">Thorvald</persName>, the son of <persName xml:id="recogito-1b66942f-7847-41c9-8ed9-08c0bd9ea0f8" ana="#Asvald Ulfsson">Asvald</persName>, the son of <persName xml:id="recogito-ffbd7c88-6205-4321-b612-7c72d7090af2" ana="#Ulf">Ulf</persName><note target="recogito-ffbd7c88-6205-4321-b612-7c72d7090af2" resp="AmateurestGamer">Not explicitly mentioned in the physical book</note>,
+the son of <persName xml:id="recogito-233668e9-295d-4525-90c0-c0e1fbd56fc3" ana="#Ox-Thorir">Yxna-Thoris</persName>. His son was named <persName xml:id="recogito-0c373414-51b1-49dd-b691-ef045e6fc4a9" ana="#Eirik Thorvaldsson the Red">Eirik</persName>. <rs xml:id="recogito-2f8026fa-155f-487d-93c8-b1d608258e56" type="event" ana="#Eirik Thorvaldsson the Red is outlawed">Father and son
+removed from Jadar</rs> (in Norway) to <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-0d85a6a8-21b5-4e13-b1f4-be2374764862" ana="#Iceland" cert="high">Iceland</placeName>, because of manslaughters,
+and occupied land in Hornstrandir, and dwelt at Drangar. <rs xml:id="recogito-0b85e32b-915a-408d-83f8-1e86d48da05e" type="event" ana="#Thorvald Asvaldsson dies">There
+Thorvald died</rs>, and <rs xml:id="recogito-d9190143-11b3-484f-a183-a517e480da2e" type="event" ana="#Eirik Thorvaldsson the Red marries Thjodhild Jorundardottir">Eirik then married Thjodhild</rs>, daughter of <persName xml:id="recogito-aac75c02-63e3-4b39-be82-377222d93209" ana="#Jorund Atlason">Jorund</persName>,
+the son of <persName xml:id="recogito-6d6611ca-6445-4f79-aee2-1f899c48fafb" ana="#Atli">Atli</persName><note target="recogito-6d6611ca-6445-4f79-aee2-1f899c48fafb" resp="AmateurestGamer">Not explicitly mentioned in the physical book</note>, and of <rs xml:id="recogito-61712ddb-b017-4d2e-9660-b97eebf7de57" type="event" ana="#Thorbjorn Skjaldabjarnarson marries Thorbjorg Gilsdottir Ship-breast">Thorbjorg the Ship-breasted, whom afterwards
+Thorbjorn, of the Haukadalr (Hawkdale) family, married</rs>; he it was who
+dwelt at Eiriksstadr after <persName xml:id="recogito-e5ca0a5f-f71d-4e33-8508-ce3219373144" ana="#Eirik Thorvaldsson the Red">Eirik</persName> removed from the north. It is near
+Vatzhorn. Then did <persName xml:id="recogito-60589182-e0c3-4727-9f1c-13554e229c1e" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s thralls cause a landslip on the estate of
+<persName xml:id="recogito-a5e2d58c-0b39-498b-977f-3f1472430017" ana="#Valthjof">Valthjof</persName>, at Valthjofsstadr. <persName xml:id="recogito-7a2594d2-4fda-4de4-ae18-95c6693b4ff6" ana="#Filth-Eyjolf">Eyjolf the Foul</persName>, his kinsman, slew the
+thralls beside Skeidsbrekkur (slopes of the race-course), above
+Vatzhorn. In return <rs xml:id="recogito-aad73043-3ba6-48c9-982f-b8906c3ea205" type="event" ana="#Filth-Eyjolf dies">Eirik slew Eyjolf the Foul</rs>; he slew also <persName xml:id="recogito-94c8b46b-dbf5-466a-ba51-eaec02ff3802" ana="#Hrafn the Dueller">Hrafn the
+Dueller</persName>, at Leikskalar (playbooths). <persName xml:id="recogito-85607410-2a2f-4a96-b273-0b27bb6d6f98" ana="#Geirstein of Jorvi">Gerstein</persName>, and <persName xml:id="recogito-e61ee9aa-f35d-4956-8405-4a3335e25313" ana="#Odd of Jorvi">Odd of Jorfi</persName>,
+kinsman of <persName xml:id="recogito-64120c8d-dd21-4360-a64d-a7e1581f0db6" ana="#Filth-Eyjolf">Eyjolf</persName>, were found willing to follow up his death by a
+legal prosecution; and then was <rs xml:id="recogito-af67ac19-e2eb-49ce-ab00-e09a420cff59" type="event" ana="#Eirik Thorvaldsson the Red is outlawed">Eirik banished</rs> from Haukadalr. He
+occupied then Brokey and Eyxney, and dwelt at Tradir, in Sudrey, the
+first winter. At this time did he lend to <persName xml:id="recogito-f18ee64a-99be-4d73-b75d-c6c1f0a4bdfb" ana="#Thorgest Steinsson">Thorgest</persName> pillars for
+seat-stocks, Afterwards <persName xml:id="recogito-a9cd2d9b-77e7-4e67-9aac-f66564590405" ana="#Eirik Thorvaldsson the Red">Eirik</persName> removed into Eyxney, and dwelt at
+Eiriksstadr. He then claimed his pillars, and got them not. Then went
+<persName xml:id="recogito-f089a8ef-d815-485f-9e58-529c380732ea" ana="#Eirik Thorvaldsson the Red">Eirik</persName> and fetched the pillars from Breidabolstadr, and <persName xml:id="recogito-95ee36b2-e90f-435c-8aa2-be8ef93b62c4" ana="#Thorgest Steinsson">Thorgest</persName> went
+after him. They fought at a short distance from the hay-yard at
+Drangar, and there fell two sons of <persName xml:id="recogito-84038e47-109b-4fed-8f04-f8c9014f2eac" ana="#Thorgest Steinsson">Thorgest</persName>, and some other men.
+After that they both kept a large body of men together. <persName xml:id="recogito-12db7a6e-ac2e-439b-bdc3-f64fb38b7f12" ana="#Styr Thorgrimsson">Styr</persName> gave
+assistance to <persName xml:id="recogito-7fab3d5d-ad67-4880-9ee5-4c0ede6b91fe" ana="#Eirik Thorvaldsson the Red">Eirik</persName>, as also did <persName xml:id="recogito-752b7a08-fed2-4483-ba54-b6164d76a08a" ana="#Eyjolf Aesuson of Sviney">Eyjolf</persName>, of Sviney, <persName xml:id="recogito-0a62ade4-2095-4b44-a89b-4a964583647a" ana="#Thorbjorn Vifilsson">Thorbjorn
+Vifilsson</persName>, and the sons of <persName xml:id="recogito-955cb6a3-ee58-4541-90fa-05ca6fc26199" ana="#Thorbrand Thorfinnsson of Alftafjord">Thorbrand</persName>, of Alptafjordr (Swanfirth). But
+the sons of <persName xml:id="recogito-bdc43fd0-e33d-4cc4-871b-6b8749efe185" ana="#Thord Olafsson Bellower">Thord Gellir</persName>, as also <persName xml:id="recogito-2a85b89d-668e-4f0b-86f9-9665bf65c03d" ana="#Thorgeir Thorhallsson of Hitardal">Thorgeir</persName>, of Hitardalr (Hotdale),
+<persName xml:id="recogito-58444a3a-57d4-4a30-8419-7fbfe698da5b" ana="#Aslak Thorbergsson of Langadal">Aslak</persName>, of Langadalr (Longdale), and <persName xml:id="recogito-b73cbf2c-66e7-4eb6-a69f-0e2b026ec30a" ana="#Illugi Aslaksson">Illugi</persName>, his son, gave assistance
+to <persName xml:id="recogito-b15df504-32ff-4ad7-a67c-2ee19104797c" ana="#Thorgest Steinsson">Thorgest</persName>. <persName xml:id="recogito-2def5349-f736-4de3-b74a-907bc7ee3663" ana="#Eirik Thorvaldsson the Red">Eirik</persName> and his people were outlawed at Thorsnes Thing. He
+prepared a ship in Eiriksvagr (creek), and <persName xml:id="recogito-3d263979-c983-42fe-b0ac-16b4c4d6fec7" ana="#Eyjolf Aesuson of Sviney">Eyjolf</persName> concealed him in
+Dimunarvagr while <persName xml:id="recogito-1a210551-d028-4dca-899e-39b62d9ff5ed" ana="#Thorgest Steinsson">Thorgest</persName> and his people sought him among the
+islands. <persName xml:id="recogito-9c961b2c-ac0c-43ba-9fd1-e6e7e54b75b3" ana="#Eirik Thorvaldsson the Red">Eirik</persName> said to his people that he purposed to seek for the
+land which <persName xml:id="recogito-f4259bb6-ccc1-4c2c-80fe-05f8147c212d" ana="#Gunnbjorn Ulfsson">Gunnbjorn</persName>, the son of <persName xml:id="recogito-7c6b9e69-193b-420d-be83-1e4b3e63d96c" ana="#Ulf Hreidarsson Crow">Ulf the Crow</persName>, saw when he was driven
+westwards over the ocean, and discovered Gunnbjarnarsker (<persName xml:id="recogito-9690e659-265e-450c-a3b3-243f3cd79a5f" ana="#Gunnbjorn Ulfsson">Gunnbjorn</persName>'s
+rock or skerry). He promised that he would return to visit his friends
+if he found the land. <persName xml:id="recogito-7920dd13-4956-47f8-b38b-81a242b54dbf" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>, and <persName xml:id="recogito-ff2d710e-90f2-4a6d-8ade-0f0c324d55db" ana="#Eyjolf Aesuson of Sviney">Eyjolf</persName>, and <persName xml:id="recogito-3fb19df1-7cbd-4d1c-87f2-908ef12854b6" ana="#Styr Thorgrimsson">Styr</persName> accompanied
+<persName xml:id="recogito-92b5238c-5af4-40e9-9e47-ae81b763ae6d" ana="#Eirik Thorvaldsson the Red">Eirik</persName> beyond the islands. They separated in the most friendly manner,
+<persName xml:id="recogito-3f2051a6-22a7-4e6e-819a-449e1b6d02db" ana="#Eirik Thorvaldsson the Red">Eirik</persName> saying that he would be of the like assistance to them, if he
+should be able so to be, and they should happen to need him. Then he
+sailed oceanwards under Snœfellsjokull (snow mountain glacier), and
+arrived at the glacier called Blaserkr (Blue-shirt); thence he
+journeyed south to see if there were any inhabitants of the country.
+He passed the first winter at Eiriksey, near the middle, of the
+Vestribygd (western settlement). The following spring he proceeded to
+Eiriksfjordr, and fixed his abode there. During the summer he
+proceeded into the unpeopled districts in the west, and was there a
+long time, giving names to the places far and wide. The second winter
+he passed in Eiriksholmar (isles), off Hvarfsgnupr (peak of
+disappearance, Cape Farewell); and the third summer he went altogether
+northwards, to Snœfell and into Hrafnsfjordr (Ravensfirth);
+considering then that he had come to the head of Eiriksfjordr, he
+turned back, and passed the third winter in Eiriksey, before the mouth
+of Eiriksfjordr. Now, afterwards, during the summer, he proceeded to
+<placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-a4c3a2e8-9cd4-49fc-aa4c-18711ac644f8" ana="#Iceland" cert="high">Iceland</placeName>, and came to Breidafjordr (Broadfirth). This winter he was
+with <persName xml:id="recogito-ee851cd3-db5c-401e-b446-ebb3f69e6f73" ana="#Ingolf Anason">Ingolf</persName>, at Holmlatr (Island-litter). During the spring, <persName xml:id="recogito-fcc6083d-cab9-482a-a56d-6a790a757bad" ana="#Thorgest Steinsson">Thorgest</persName>
+and he fought, and <persName xml:id="recogito-d4313a56-b890-4e24-8be9-107275988079" ana="#Eirik Thorvaldsson the Red">Eirik</persName> met with defeat. After that they were
+reconciled. In the summer <persName xml:id="recogito-10dcf869-587e-4da3-a42f-b9372f4d469b" ana="#Eirik Thorvaldsson the Red">Eirik</persName> went to live in the land which he had
+discovered, and which he called <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-db00c0eb-892c-4595-ad85-7d9644d60102" ana="#Greenland" cert="high">Greenland</placeName>, “Because,” said he, “men
+will desire much the more to go there if the land has a good name.”]</p><p>3. <persName xml:id="recogito-d4b602fe-2970-42c1-a383-3cb8a39c100a" ana="#Thorgeir Vifilsson">Thorgeir Vifilsson</persName> married, and took to wife <persName xml:id="recogito-37f7f12a-9183-4104-b179-eb4d20c1df1b" ana="#Arnora Einarsdottir">Arnora</persName>, daughter of
+<persName xml:id="recogito-731ed5f6-ca1a-4d14-9d4a-1eafb431b542" ana="#Einar Sigmundarson">Einar</persName>, from Laugarbrekka (the slope of the hot spring), the son of
+<persName xml:id="recogito-a9f72942-c0a5-45d2-82a7-226db1f78f4a" ana="#Sigmund Ketilsson">Sigmund</persName>, the eon of <persName xml:id="recogito-19548960-4879-4339-a8fe-e49dfe172d91" ana="#Ketil Thistle">Ketil-Thistil</persName>, who had occupied Thistilsfjordr.
+The second daughter of <persName xml:id="recogito-a00d68e5-5954-48b0-b542-c7eef23555c6" ana="#Einar Sigmundarson">Einar</persName> was named <persName xml:id="recogito-73630d52-9328-4dcc-84f6-22d615d26743" ana="#Hallveig Einarsdottir">Hallveig</persName>. <persName xml:id="recogito-5ce9ae64-432b-4ebf-bc20-03e40b055096" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> Vifilsson
+took her to wife, and received with her the land of Laugarbrekka, at
+Hellisvollr (the cave-hill). To that spot <persName xml:id="recogito-373d3c6f-5af1-4306-bd42-617304463159" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> removed his abode,
+and became great and worshipful. He was the temple-priest, and had a
+magnificent estate. <persName xml:id="recogito-cb792f58-6073-44a0-a0f6-e487dd3968bb" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>'s daughter was <persName xml:id="recogito-f8278d19-5fee-4a18-9ae6-4835f306417c" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, the fairest of
+women, and of peerless nobility in all her conduct. There was a man
+named <persName xml:id="recogito-7f7db51f-cf82-41c5-8c4c-846397a855f8" ana="#Orm of Arnarstapi">Orm</persName>, who dwelt at Arnarstapi (eagle-rock), and he had a wife who
+was named <persName xml:id="recogito-07a0348f-1398-48a9-a924-8e465876cf79" ana="#Halldis">Halldis</persName>. He was a well-to-do franklin, a great friend of
+<persName xml:id="recogito-c96d1077-ef44-49cc-bfae-3aca405c0185" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>, and <persName xml:id="recogito-971b3dc5-c4df-47b7-a215-a54c8b834bd8" ana="#Gudrid Thorbjanardottir">Gudrid</persName> lived at his house as his foster-child for a
+long time. There was a man named <persName xml:id="recogito-9878a5fe-4215-4799-877d-a9e70c532a8e" ana="#Thorgeir of Thorgeirsfell">Thorgeir</persName>, who dwelt at Thorgeirsfjall
+(fell). He was mighty rich in cattle, and had been made a freedman. He
+had a son, whose name was <persName xml:id="recogito-72f15a41-4060-41e0-9b47-5d5f6a2928bf" ana="#Einar Thorgeirsson">Einar</persName>, a handsome man, well mannered, and a
+great dandy. <persName xml:id="recogito-0b1a51dc-d448-445d-9513-7d987aacc41a" ana="#Einar Thorgeirsson">Einar</persName>, at this time, was a travelling merchant, sailing
+from land to land with great success; and he always passed his winter
+either in <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-98b1b87d-effb-48ef-a3f0-0de3dda8764b" ana="#Iceland" cert="high">Iceland</placeName> or in <placeName ref="http://geo-kima.org/place/6310" xml:id="recogito-862f8002-a123-418d-a9ed-e277fd767060" ana="#Norway" cert="high">Norway</placeName>. Now after this, I have to tell how
+that one autumn, when <persName xml:id="recogito-1f5b5812-8972-4419-af30-f5dbb9f4b3b5" ana="#Einar Thorgeirsson">Einar</persName> was in <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-1ab118a0-2f95-4802-ace9-95e671426073" ana="#Iceland" cert="high">Iceland</placeName>, he proceeded with his
+wares along Snœfellsnes, with the object of selling; he came to
+Arnarstapi; <persName xml:id="recogito-b7b84af7-4043-4e70-be47-eb0880761854" ana="#Orm of Arnarstapi">Orm</persName> invited him to stay there, and <persName xml:id="recogito-f5d220ea-4f1b-4bcd-a599-a996a63f1d7c" ana="#Einar Thorgeirsson">Einar</persName> accepted his
+invitation, because there was friendship between him and <persName xml:id="recogito-d2f57ee7-ba68-4401-87a2-c438d5a69261" ana="#Orm of Arnarstapi">Orm</persName>'s people,
+and his wares were earned into a certain outhouse. There he unpacked
+his merchandise, showed it to <persName xml:id="recogito-42612ab9-e158-4497-9fbe-785224f7aaef" ana="#Orm of Arnarstapi">Orm</persName> and the housemen, and bade <persName xml:id="recogito-89ac5997-e661-4e03-bda0-af2f6b084986" ana="#Orm of Arnarstapi">Orm</persName> take
+therefrom such things as he would. <persName xml:id="recogito-fa8fd3b9-e23b-4dc4-a98d-e25c136c44f2" ana="#Orm of Arnarstapi">Orm</persName> accepted the offer, and
+pronounced <persName xml:id="recogito-d15d6bbc-a391-4237-9456-0fc377b5d77d" ana="#Einar Thorgeirsson">Einar</persName> to be a goodly gallant traveller, and a great
+favourite of fortune. When now they were busy with the wares, a woman
+passed before the door of the outhouse; and <persName xml:id="recogito-e87d339e-f141-4c72-94cd-85838f1be9b9" ana="#Einar Thorgeirsson">Einar</persName> inquired of <persName xml:id="recogito-27b3f063-a561-42ad-af5c-b6f67096e20a" ana="#Orm of Arnarstapi">Orm</persName> who
+that fair woman might be, passing before the door. “I have not seen
+her here before,” said he. “That is <persName xml:id="recogito-c76e394d-a72a-40ba-b099-1346e28f88e8" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, my foster-child,” said
+<persName xml:id="recogito-a79bbfeb-6db8-4a8e-9240-f32a96405627" ana="#Orm of Arnarstapi">Orm</persName>, “daughter of <persName xml:id="recogito-2fd60e6c-63bd-4968-b8b1-a226f42d8fbf" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> the franklin, from Laugarbrekka.” “She
+must be a good match,” said <persName xml:id="recogito-877ed089-e689-4243-8cfe-401a2634c32f" ana="#Einar Thorgeirsson">Einar</persName>; “surely she has not been without
+suitors who have made proposals for her, has she?” <persName xml:id="recogito-1c2dc75d-118f-4db1-bb2b-b5a8b003aed1" ana="#Orm of Arnarstapi">Orm</persName> answered,
+“Proposals have certainly been made, friend, but this treasure is not
+to be had for the picking up; it is found that she will be particular
+in her choice, as well as also her father.” “Well, in spite of that,”
+quoth <persName xml:id="recogito-82948f7f-47b4-44ea-85b2-179cd2166977" ana="#Einar Thorgeirsson">Einar</persName>, “she is the woman whom I have it in my mind to propose
+for, and I wish that in this suit of mine you approach her father on
+my part, and apply yourself to plead diligently[A] for me, for which
+I shall pay you in return a perfect friendship. The franklin,
+<persName xml:id="recogito-c50c43c5-5c0f-4c40-aed3-ca5001837ed9" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>, may reflect that our families would be suitably joined in
+the bonds of affinity; for he is a man in a position of great honour,
+and owns a fine abode, but his personal property, I am told, is
+greatly on the decrease; neither I nor my father lack lands or
+personal property; and if this alliance should be brought about, the
+greatest assistance would accrue to <persName xml:id="recogito-a811d948-e33d-4538-8073-8a6370b76299" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>.” Then answered Orm, “Of
+a surety I consider myself to be thy friend, and yet am I not willing
+to bring forward this suit, for <persName xml:id="recogito-b990c1b1-f08c-4328-83e8-0cd8a979f1c2" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> is of a proud mind, and
+withal a very ambitious man.” <persName xml:id="recogito-33874ba1-49ec-4719-afe6-ed982ed0a0d0" ana="#Einar Thorgeirsson">Einar</persName> replied that he desired no other
+thing than that his offer of marriage should be made known. <persName xml:id="recogito-95313df8-0ebc-4a29-9c3b-07a21853a459" ana="#Orm of Arnarstapi">Orm</persName> then
+consented to undertake his suit, and <persName xml:id="recogito-a6fdf807-b7db-496f-8e19-9c99b1ec8481" ana="#Einar Thorgeirsson">Einar</persName> journeyed south again until
+he came home. A while after, <persName xml:id="recogito-0417045a-83ff-472d-952f-1af52b7ae2da" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> had a harvest-feast, as he was
+bound to have because of his great rank. There were present <persName xml:id="recogito-c2999fe7-b2ad-473e-aa63-becf3e689ef8" ana="#Orm of Arnarstapi">Orm</persName>, from
+Arnarstapi, and many other friends of <persName xml:id="recogito-b96758d8-352c-42c8-a3f9-f56f485f9a85" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>. <persName xml:id="recogito-913a1c33-64db-420d-a3bb-ebe887477f3c" ana="#Orm of Arnarstapi">Orm</persName> entered into
+conversation with <persName xml:id="recogito-7bb1de31-c752-4918-8171-de0cd7e24cc1" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>, and told him how that <persName xml:id="recogito-e37a47f6-08e8-4923-baed-0ca307722504" ana="#Einar Thorgeirsson">Einar</persName> had lately
+been to see him from Thorgeirsfjall, and was become a promising man.
+He now began the wooing on behalf of <persName xml:id="recogito-f954b0ff-fd70-4078-a99b-a30856e23d41" ana="#Einar Thorgeirsson">Einar</persName>, and said that an alliance
+between the families would be very suitable on account of certain
+interests. “There may arise to thee, franklin,” he said, “great
+assistance in thy means from this alliance.” But <persName xml:id="recogito-711d466f-0128-4368-ada3-0535ea445492" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> answered,
+“I did not expect the like proposal from thee, that I should give my
+daughter in marriage to the son of a thrall. And so thou perceivest
+that my substance is decreasing; well, then, my daughter shall not go
+home with thee, since thou considerest her worthy of so poor a match.”
+Then went <persName xml:id="recogito-57d7bfc5-0f87-4e03-90d8-b2eee0bd508a" ana="#Orm of Arnarstapi">Orm</persName> home again, and each of the other guests to his own
+household, and <persName xml:id="recogito-983a11cf-f714-4bb3-adf1-7654077b1e3b" ana="#Gudrid Thorbjanardottir">Gudrid</persName> remained with her father, and stayed at home
+that winter.</p><p>[Footnote A: The word “alendu” is a difficulty. Perhaps we ought to
+read “allidnu,” or “allidinu.”]</p><p>Now, in the spring, <persName xml:id="recogito-b534f304-4eae-4ad2-8a43-cf99b39f5173" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> made a feast to his friends, and a
+goodly banquet was prepared. There came many guests, and the banquet
+was of the best. Now, at the banquet, <persName xml:id="recogito-6b3a00e6-3b01-4da4-93ea-5de35ec259e1" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> called for a hearing,
+and thus spake:--“Here have I dwelt a long time. I have experienced
+the goodwill of men and their affection towards me, and I consider
+that our dealings with one another have been mutually agreeable. But
+now do my money matters begin to bring me uneasiness, although to this
+time my condition has not been reckoned contemptible. I wish,
+therefore, to break up my household before I lose my honour; to remove
+from the country before I disgrace my family. So now I purpose to look
+after the promises of <persName xml:id="recogito-3ebe47a6-9bd0-4f96-aff9-ad86d1041625" ana="#Eirik Thorvaldsson the Red">Eirik the Red</persName>, my friend, which he made when we
+separated at Breidafjordr. I purpose to depart for <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-2b20eb41-43ce-4d6c-969a-7d3e15a5131f" ana="#Greenland" cert="high">Greenland</placeName> in the
+summer, if events proceed as I could wish.” These tidings about this
+design appeared to the guests to be important, for <persName xml:id="recogito-04269c72-2ba0-4474-91a7-eb48b15a3012" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> had long
+been beloved by his friends. They felt that he would only have made so
+public a declaration that it might be held of no avail to attempt to
+dissuade him from his purpose. <persName xml:id="recogito-e01623f0-f7a9-4cfe-a435-61c3fbeeb167" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> distributed gifts among the
+guests, and then the feast was brought to an end, and they departed to
+their own homesteads. <persName xml:id="recogito-06364916-340c-45b2-a1ed-60983ffe97f7" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> sold his lands, and bought a ship
+which had been laid up on shore at the mouth of the Hraunhofn (harbour
+of the lava field). Thirty men ventured on the expedition with him.
+There was <persName xml:id="recogito-77a551ca-92c3-4e88-aaf6-06b37cd0674b" ana="#Orm of Arnarstapi">Orm</persName>, from Arnarstapi, and his wife, and those friends of
+<persName xml:id="recogito-a4a2e977-f81e-4799-a7f4-da977f70c687" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> who did not wish to be separated from him. Then they
+launched the ship, and set sail with a favourable wind. But when they
+came out into the open sea the favourable wind ceased, and they
+experienced great gales, and made but an ill-sped voyage throughout
+the summer. In addition to that trouble, there came fever upon the
+expedition, and <rs xml:id="recogito-8051d4da-2e58-4599-8ff5-cef89103304a" type="event" ana="#Orm of Arnarstapi dies">Orm died</rs>, <rs xml:id="recogito-c431efb5-1947-4749-8b59-e119e0222d17" type="event" ana="#Halldis dies">and Halldis</rs>, his wife, and half the
+company. Then the sea waxed rougher, and they endured much toil and
+misery in many ways, and only reached Herjolfsnes, in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-28511afb-38ec-451b-bded-3eefe03c8b5e" ana="#Greenland" cert="high">Greenland</placeName>, at
+the very beginning of winter. There dwelt at Herjolfsnes the man who
+was called <persName xml:id="recogito-8223df03-e3dd-4f58-a3a8-40687e983cab" ana="#Thorkel of Herjolfsnes">Thorkell</persName>. He was a useful man and most worthy franklin. He
+received <persName xml:id="recogito-bd6a398f-eccb-4a29-9545-5f5fe97749a4" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> and all his ship's company for the winter,
+assisting them in right noble fashion. This pleased <persName xml:id="recogito-625eae2c-b543-472d-9233-c1bd1fba8f28" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> well and
+his companions in the voyage.</p><p>At that time there was a great dearth in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-99457635-8152-49a0-a24a-84d822e96bee" ana="#Greenland" cert="high">Greenland</placeName>; those who had been
+out on fishing expeditions had caught little, and some had not
+returned. There was in the settlement the woman whose name was
+<persName xml:id="recogito-11e34f54-f612-4423-a390-004fac41da16" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName>. She was a prophetess (spae-queen), and was called
+Litilvolva (little sybil). She had had nine sisters, and they were all
+spae-queens, and she was the only one now living. It was a custom of
+<persName xml:id="recogito-fd5d1884-18b4-45b2-8997-144e0158e32e" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName>, in the winter time, to make a circuit, and people invited
+her to their houses, especially those who had any curiosity about the
+season, or desired to know their fate; and inasmuch as <persName xml:id="recogito-1c2d420e-371a-4e3b-96cb-6cb4b1582db8" ana="#Thorkel of Herjolfsnes">Thorkell</persName> was
+chief franklin thereabouts, he considered that it concerned him to
+know when the scarcity which overhung the settlement should cease. He
+invited, therefore, the spae-queen to his house, and prepared for her
+a hearty welcome, as was the custom whereever a reception was accorded
+a woman of this kind. A high seat was prepared for her, and a cushion
+laid thereon in which were poultry-feathers. Now, when she came in the
+evening, accompanied by the man who had been sent to meet her, she was
+dressed in such wise that she had a blue mantle over her, with strings
+for the neck, and it was inlaid with gems quite down to the skirt. On
+her neck she had glass beads. On her head she had a black hood of
+lambskin, lined with ermine. A staff she had in her hand, with a knob
+thereon; it was ornamented with brass, and inlaid with gems round
+about the knob. Around her she wore a girdle of soft hair, and therein
+was a large skin-bag, in which she kept the talismans needful to her
+in her wisdom. She wore hairy calf-skin shoes on her feet, with long
+and strong-looking thongs to them, and great knobs of latten at the
+ends. On her hands she had gloves of ermine-skin, and they were white
+and hairy within. Now, when she entered, all men thought it their
+bounden duty to offer her becoming greetings, and these she received
+according as the men were agreeable to her. The franklin <persName xml:id="recogito-304f663a-6e1a-4245-a443-9a57301a1680" ana="#Thorkel of Herjolfsnes">Thorkell</persName> took
+the wise-woman by the hand, and led her to the seat prepared for her.
+He requested her to cast her eyes over his herd, his household, and
+his homestead. She remained silent altogether. During the evening the
+tables were set; and now I must tell you what food was made ready for
+the spae-queen. There was prepared for her porridge of kid's milk, and
+hearts of all kinds of living creatures there found were cooked for
+her. She had a brazen spoon, and a knife with a handle of walrus-tusk,
+which was mounted with two rings of brass, and the point of it was
+broken off. When the tables were removed, the franklin <persName xml:id="recogito-28f472d6-5b3a-408f-aa0d-f08da44bf878" ana="#Thorkel of Herjolfsnes">Thorkell</persName>
+advanced to <persName xml:id="recogito-b242dd53-35d5-4ca4-8676-36fcb682cce1" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName> and asked her how she liked his homestead, or
+the appearance of the men; or how soon she would ascertain that which
+he had asked, and which the men desired to know. She replied that she
+would not give answer before the morning, after she had slept there
+for the night. And when the (next) day was far spent, the preparations
+were made for her which she required for the exercise of her
+enchantments. She begged them to bring to her those women who were
+acquainted with the lore needed for the exercise of the enchantments,
+and which is known by the name of Weird-songs, but no such women came
+forward. Then was search made throughout the homestead if any woman
+were so learned. Then answered <persName xml:id="recogito-4302af8d-ffd1-44a0-aac3-57950542fa25" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, “I am not skilled in deep
+learning, nor am I a wise-woman, although <persName xml:id="recogito-3510b2d6-61d3-4eb5-be4e-c3b1b8bc148f" ana="#Halldis">Halldis</persName>, my foster-mother,
+taught me, in Iceland, the lore which she called Weird-songs.” “Then
+art thou wise in good season,” answered <persName xml:id="recogito-0bb71c9e-4f73-4f1c-a650-5f6b5b1b62e5" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName>; but <persName xml:id="recogito-7285ab95-655c-4829-838b-946b08a86468" ana="#Gudrid Thorbjanardottir">Gudrid</persName> replied,
+“That lore and the ceremony are of such a kind, that I purpose to be
+of no assistance therein, because I am a Christian woman.” Then
+answered <persName xml:id="recogito-aa22b40c-393d-4693-a732-5ffee6b8271a" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName>, “Thou mightest perchance afford thy help to the
+men in this company, and yet be none the worse woman than thou wast
+before; but to <persName xml:id="recogito-b0e8aefc-a619-45c7-ae80-dac324d6dba6" ana="#Thorkel of Herjolfsnes">Thorkell</persName> give I charge to provide here the things that
+are needful.” <persName xml:id="recogito-4026eea2-388b-4273-8d01-eb16c3f6eca3" ana="#Thorkel of Herjolfsnes">Thorkell</persName> thereupon urged <persName xml:id="recogito-61e6717f-61eb-40a8-8804-bfc07ca8c790" ana="#Gudrid Thorbjanardottir">Gudrid</persName> to consent, and she
+yielded to his wishes. The women formed a ring round about, and
+<persName xml:id="recogito-568babb6-32da-4489-9c3e-d1abfabcb4ae" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName> ascended the scaffold and the seat prepared for her
+enchantments. Then sang <persName xml:id="recogito-bd4e075f-7f04-4488-a61f-c1ef6fd13460" ana="#Gudrid Thorbjanardottir">Gudrid</persName> the weird-song in so beautiful and
+excellent a manner, that to no one there did it seem that he had ever
+before heard the song in voice so beautiful as now. The spae-queen
+thanked her for the song. “Many spirits,” said she, “have been present
+under its charm, and were pleased to listen to the song, who before
+would turn away from us, and grant us no such homage. And now are many
+things clear to me which before were hidden both from me and others.
+And I am able this to say, that the dearth will last no longer--the
+season improving as spring advances. The epidemic of fever which has
+long oppressed us will disappear quicker than we could have hoped. And
+thee, <persName xml:id="recogito-b7cdd6bd-cb01-41c8-aaae-14213debb1c4" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, will I recompense straightway, for that aid of thine
+which has stood us in good stead; because thy destiny is now clear to
+me, and foreseen. Thou shalt make a match here in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-fbf73869-b134-4e63-a9d9-fbb42f69dade" ana="#Greenland" cert="high">Greenland</placeName>, a most
+honourable one, though it will not be a long-lived one for thee,
+because thy way lies out to <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-d7b64bd4-287a-4684-b30d-6cb22a5e4ce4" ana="#Iceland" cert="high">Iceland</placeName>; and there, shall arise from thee
+a line of descendants both numerous and goodly, and over the branches
+of thy family shall shine a bright ray. And so fare thee now well and
+happily, my daughter.” Afterwards the men went to the wise-woman, and
+each enquired after what he was most curious to know. She was also
+liberal of her replies, and what she said proved true. After this came
+one from another homestead after her, and she then went there.
+<persName xml:id="recogito-397ee762-a733-461c-b993-34857e60b836" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> was invited, because he did not wish to remain at home while
+such heathen worship was performing. The weather soon improved when
+once spring began, as <persName xml:id="recogito-51f7b509-2e89-46bb-bbe9-cc6fe226be42" ana="#Thorbjorg 'Little Prophetess'">Thorbjorg</persName> had said, <persName xml:id="recogito-ea54cefb-64b2-4eb0-9cb6-bb8f1c33202d" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> made ready his
+ship, and went on until he came to Brattahlid (the steep slope). <persName xml:id="recogito-77b1f33f-7e31-4552-aa54-8c38c5378b9c" ana="#Eirik Thorvaldsson the Red">Eirik</persName>
+received him with the utmost cordiality, saying he had done well to
+come there. <persName xml:id="recogito-8da2e918-a9a7-44eb-9883-70114fe9f126" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> and his family were with him during the winter.
+And in the following spring <persName xml:id="recogito-6fdeb45b-bcd5-4aeb-9cb3-0e2360bb7732" ana="#Eirik Thorvaldsson the Red">Eirik</persName> gave to <persName xml:id="recogito-dc0fcab2-d932-4ded-8200-ef42206945f5" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> land at Stokknes,
+and handsome farm buildings were there built for him, and he dwelt
+there afterwards.</p><p>4. <persName xml:id="recogito-206cae1e-4833-4560-92d1-56694f4a2417" ana="#Eirik Thorvaldsson the Red">Eirik</persName> had a wife who was named <persName xml:id="recogito-a5c14dcd-a237-4fd7-a76f-d6be31722207" ana="#Thjodhild Jorundardottir">Thjodhild</persName>, and two sons; the one was
+named <persName xml:id="recogito-1bfcb701-e9d9-45a5-991a-bb1250387a5b" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, and the other <persName xml:id="recogito-4732fcf7-a9e3-427a-8e5e-6400a8ade0f2" ana="#Leif Eiriksson the Lucky">Leif</persName>. These sons of <persName xml:id="recogito-5608cab5-f00d-4cc5-a53c-65c1f9285574" ana="#Eirik Thorvaldsson the Red">Eirik</persName> were both
+promising men. <persName xml:id="recogito-d521d7a7-7432-490f-ab72-5ac10be19c74" ana="#Thorstein Eiriksson the Red">Thorstein</persName> was then at home with his father; and there
+was at that time no man in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-741eaacb-4452-4d3b-8616-023c8a78d163" ana="#Greenland" cert="high">Greenland</placeName> who was thought so highly of as
+he. <persName xml:id="recogito-8047a92f-62d2-4208-b570-f9f8c7bc05ee" ana="#Leif Eiriksson the Lucky">Leif</persName> had sailed to <placeName ref="http://geo-kima.org/place/6310" xml:id="recogito-f505101d-f11f-4a03-aa09-9b0c24a32787" ana="#Norway" cert="high">Norway</placeName>, and was there with <persName xml:id="recogito-d24e0e8b-9758-425b-ab73-5a61921232a2" ana="#King Olaf Tryggvason of Norway">King Olaf
+Tryggvason</persName>. Now, when <persName xml:id="recogito-11fa0ac3-18a9-4ae6-8fc0-a97606b28704" ana="#Leif Eiriksson the Lucky">Leif</persName> sailed from <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-ea149c91-ac4e-4ab9-83ae-a5526e0bdb3d" ana="#Greenland" cert="high">Greenland</placeName> during the summer, he
+and his men were driven out of their course to the Sudreyjar. They
+were slow in getting a favourable wind from this place, and they
+stayed there a long time during the summer ... reaching <placeName ref="http://geo-kima.org/place/6310" xml:id="recogito-a2f25094-19f7-4b82-8957-79cbec1c50ab" ana="#Norway" cert="high">Norway</placeName> about
+harvest-tide. He joined the body-guard of <persName xml:id="recogito-d8df7532-f31c-4aa6-b3cd-ccd87ed7e598" ana="#King Olaf Tryggvason of Norway">King Olaf Tryggvason</persName>, and
+the king formed an excellent opinion of him, and it appeared to him
+that <persName xml:id="recogito-7b1d8318-f1a7-414c-ac61-ce83a37c985e" ana="#Leif Eiriksson the Lucky">Leif</persName> was a well-bred man. Once upon a time the king entered into
+conversation with <persName xml:id="recogito-b0bab266-9940-48f6-a211-b71d70ea573a" ana="#Leif Eiriksson the Lucky">Leif</persName>, and asked him, “Dost thou purpose sailing to
+<placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-3dec5214-66dc-4f08-a8da-cf853c807319" ana="#Greenland" cert="high">Greenland</placeName> in summer?” <persName xml:id="recogito-bc0efe2c-abc1-4702-9c28-79c345f8e18d" ana="#Leif Eiriksson the Lucky">Leif</persName> answered, “I should wish so to do, if it
+is your will.” The king replied, “I think it may well be so; thou
+shalt go my errand, and preach Christianity in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-8542af6e-7fd1-4d19-a6eb-e6b890f42d44" ana="#Greenland" cert="high">Greenland</placeName>.” <persName xml:id="recogito-5b18805b-6469-4910-b02a-c64372c0cafc" ana="#Leif Eiriksson the Lucky">Leif</persName> said
+that he was willing to undertake it, but that, for himself, he
+considered that message a difficult one to proclaim in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-8ab119ad-0d67-401c-bce1-8ee1830d3661" ana="#Greenland" cert="high">Greenland</placeName>. But
+the king said that he knew no man who was better fitted for the work
+than he. “And thou shalt carry,” said he, “good luck with thee in it.”
+“That can only be,” said <persName xml:id="recogito-482cc5a6-a39c-4a21-9bc1-d2b339908c18" ana="#Leif Eiriksson the Lucky">Leif</persName>, “if I carry yours with me.” <persName xml:id="recogito-c394824d-11e0-4df8-8963-39380d75abca" ana="#Leif Eiriksson the Lucky">Leif</persName> set
+sail as soon as he was ready. He was tossed about a long time out at
+sea, and lighted upon lands of which before he had no expectation.
+There were fields of wild wheat, and the vine-tree in full growth.
+There were also the trees which were called maples; and they gathered
+of all this certain tokens; some trunks so large that they were used
+in house-building. <persName xml:id="recogito-9685be7f-2f97-4978-9999-d010cd0d4a6c" ana="#Leif Eiriksson the Lucky">Leif</persName> came upon men who had been shipwrecked, and
+took them home with him, and gave them sustenance during the winter.
+Thus did he show his great munificence and his graciousness when he
+brought Christianity to the land, and saved the shipwrecked crew. He
+was called <persName xml:id="recogito-7336a48e-df0e-4bf7-81b8-410c1003f1ad" ana="#Leif Eiriksson the Lucky">Leif the Lucky</persName>. <persName xml:id="recogito-1185e478-50f2-4aa7-a56e-087b75a0da56" ana="#Leif Eiriksson the Lucky">Leif</persName> reached land in Eiriksfjordr, and
+proceeded home to Brattahlid. The people received him gladly. He soon
+after preached Christianity and catholic truth throughout the land,
+making known to the people the message of <persName xml:id="recogito-80171d60-bdeb-4544-aad4-c499731f09e3" ana="#King Olaf Tryggvason of Norway">King Olaf Tryggvason</persName>; and
+declaring how many renowned deeds and what great glory accompanied
+this faith. <persName xml:id="recogito-7d15c4c6-028c-4df0-8180-d3c45f4383f5" ana="#Eirik Thorvaldsson the Red">Eirik</persName> took coldly to the proposal to forsake his religion,
+but his wife, <persName xml:id="recogito-031723ce-cedc-4bf4-9653-8d751aa5a08e" ana="#Thjodhild Jorundardottir">Thjodhild</persName>, promptly yielded, and caused a church to be
+built not very near the houses. The building was called <persName xml:id="recogito-11a97716-034b-47bf-8c15-f88b472e8da3" ana="#Thjodhild Jorundardottir">Thjodhild</persName>'s
+Church; in that spot she offered her prayers, and so did those men who
+received Christ, and they were many. After she accepted the faith,
+<persName xml:id="recogito-5c6f8d3b-08b7-4866-8afa-a31092c21452" ana="#Thjodhild Jorundardottir">Thjodhild</persName> would have no intercourse with <persName xml:id="recogito-16f6ce64-cd1b-4596-9f45-243a35df349a" ana="#Eirik Thorvaldsson the Red">Eirik</persName>, and this was a great
+trial to his temper.</p><p>After this there was much talk about making ready to go to the land
+which <persName xml:id="recogito-f46bcff0-35e4-4fc2-a1e9-f39ddc244658" ana="#Leif Eiriksson the Lucky">Leif</persName> had discovered. <persName xml:id="recogito-e240560d-98e6-409a-a6c2-dc0380a3b0e1" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-5434d3cf-3a1f-41e9-94e7-7dfaa7f27ba5" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, was chief mover in
+this, a worthy man, wise and much liked. <persName xml:id="recogito-90a3c3ba-2e87-4599-b28c-131a6d713250" ana="#Eirik Thorvaldsson the Red">Eirik</persName> was also asked to go,
+and they believed that his luck and foresight would be of the highest
+use. He was [for a long time against it, but did not say nay], when
+his friends exhorted him to go. They made ready the ship which
+<persName xml:id="recogito-93c1b2d5-9d23-432a-8e4d-403a087ca1f0" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> had brought there, and there were twenty men who undertook
+to start in her. They had little property, but chiefly weapons and
+food. On the morning when <persName xml:id="recogito-32f6e1cc-3e1d-4466-9ff8-930a6e8c9d57" ana="#Eirik Thorvaldsson the Red">Eirik</persName> left home he took a little box, which
+had in it gold and silver; he hid the money, and then went forth on
+his journey. He had proceeded, however, but a little way, when he fell
+from his horse, and broke his ribs and injured his shoulder, and cried
+out, “Aiai!” At this accident he sent word to his wife that she should
+take away the money that he had hidden, declaring his misfortune to be
+a penalty paid on account of having hid the money. Afterwards they
+sailed away out of Eiriksfjordr with gladness, as their plan seemed to
+promise success. They were driven about for a long time on the open
+sea, and came not into the track which they desired. They came in
+sight of <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-54ac34fb-b79e-403a-a3b9-9cb75cea994f" ana="#Iceland" cert="high">Iceland</placeName>, and also met with birds from the coast of <placeName ref="http://geo-kima.org/place/7885" xml:id="recogito-2c95103a-162f-42b2-b83a-32ce6ee9a12c" ana="#Iceland #Ireland" cert="high">Ireland</placeName>.
+Then was their ship tossed to and fro on the sea. They returned about
+harvest-tide, worn out by toil and much exhausted, and reached
+Eiriksfjordr at the beginning of winter. Then spake <persName xml:id="recogito-0b1a01c5-1b54-44be-a13a-4ba0ffab7006" ana="#Eirik Thorvaldsson the Red">Eirik</persName>, “You were
+in better spirits in the summer, when you went forth out of the firth,
+than you are in now, and yet for all that there is much to be thankful
+for.” <persName xml:id="recogito-f5398174-eff4-4f5e-8ceb-167033096bed" ana="#Thorstein Eiriksson the Red">Thorstein</persName> replied, “It is a chieftain's duty now to look after
+some arrangement for these men who are without shelter, and to find
+them food.” <persName xml:id="recogito-bb81074b-d566-498e-8e0a-a03067a33630" ana="#Eirik Thorvaldsson the Red">Eirik</persName> answered, “That is an ever-true saying, 'You know
+not until you have got your answer.' I will now take thy counsel about
+this.” All those who had no other abodes were to go with the father
+and the son. Then came they to land, and went forth home.</p><p>5. Now, after this, I have to tell you how <persName xml:id="recogito-0525aab0-e5e1-441e-abff-afa8a8a3eda9" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-47828e3b-f47e-4c7b-87fa-86e0256316f5" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son,
+began wooing <persName xml:id="recogito-eb1552ad-0722-4e12-8a5d-ac4c0f9214da" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, <persName xml:id="recogito-cde3d468-4f10-4600-b5ee-418c0566c624" ana="#Thorbjorn Vifilsson">Thorbjorn</persName>'s daughter. To his proposals a
+favourable answer was given, both by the maid herself, and also by her
+father. <rs xml:id="recogito-86f99475-6679-4c64-b160-ddecdc39528f" type="event" ana="#Thorstein Eiriksson the Red marries Gudrid Thorbjarnardottir">The marriage was also arranged</rs>, so that <persName xml:id="recogito-dc94e791-abda-471b-b529-3db59c4bfbeb" ana="#Thorstein Eiriksson the Red">Thorstein</persName> went to take
+possession of his bride, and the bridal feast was held at Brattahlid
+in the autumn. The banquet went off well, and was numerously attended.
+<persName xml:id="recogito-9c4a1538-9669-44d9-91d9-fd5d96f6b709" ana="#Thorstein Eiriksson the Red">Thorstein</persName> owned a homestead in the Vestribygd on the estate known as
+Lysufjordr (shining firth). The man who was called <persName xml:id="recogito-274a5fcd-f444-435b-b308-f7aebb81193e" ana="#Thorstein the Black">Thorstein</persName> owned the
+other half of the homestead. His wife was called <persName xml:id="recogito-9c50c97c-4c94-4aa8-afdf-26c8e5d29006" ana="#Sigrid">Sigrid</persName>. <persName xml:id="recogito-a951083b-16c2-46d7-b622-3fadcfdea659" ana="#Thorstein Eiriksson the Red">Thorstein</persName>
+went, during the autumn, to Lysufjordr, to his namesake, both he and
+<persName xml:id="recogito-5e23588f-0e4b-4d5a-bf27-bc430b836100" ana="#Gudrid Thorbjanardottir">Gudrid</persName>. Their reception was a welcome one. They were there during the
+winter. When little of the winter was past, the event happened there
+that fever broke out on their estate. The overseer of the work was
+named <persName xml:id="recogito-0563d77f-08fe-42d8-9219-aee7305917b2" ana="#Foreman Gardi">Garth</persName>. He was an unpopular man. <rs xml:id="recogito-89e8c914-05dc-4ed6-b610-2b06ee05f267" type="event" ana="#Foreman Gardi dies">He took the fever first and
+died</rs>. Afterwards, and with but little intermission, one took the fever
+after another and died. Then <persName xml:id="recogito-2ec0fa10-0bcd-4548-a0ea-a44f5f40c740" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-c75d1b17-7bc9-458b-b27e-e469149bbfeb" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, fell ill, and
+also <persName xml:id="recogito-c87f2bec-d0c8-4a7a-9a0e-cc3499a6fe1e" ana="#Sigrid">Sigrid</persName>, the wife of his namesake <persName xml:id="recogito-615a2ebb-301e-48ee-b027-b1e5052c9e82" ana="#Thorstein the Black">Thorstein</persName>. [And one evening
+<persName xml:id="recogito-35126532-be61-4d25-a702-eaabc8cd663a" ana="#Sigrid">Sigrid</persName> left the house, and rested awhile opposite the outer door; and
+<persName xml:id="recogito-4796774b-f5e5-496b-8f1e-75348213d771" ana="#Gudrid Thorbjanardottir">Gudrid</persName> accompanied her; and they looked back towards the outer door,
+and <persName xml:id="recogito-d9e07f05-9d86-4948-973c-66dccc4210bc" ana="#Sigrid">Sigrid</persName> screamed out aloud. <persName xml:id="recogito-a5611e1f-a887-4067-801c-f6ac8e062aff" ana="#Gudrid Thorbjanardottir">Gudrid</persName> said, “We have come forth
+unwarily, and thou canst in no wise withstand the cold; let us even go
+home as quickly as possible.” “It is not safe as matters are,”
+answered <persName xml:id="recogito-eaf3c4cb-8555-44fd-ac4c-c8500afeb31c" ana="#Sigrid">Sigrid</persName>. “There is all that crowd of dead people before the
+door; <persName xml:id="recogito-4bbb8346-c4ee-41e3-b6f1-ba6809b26dcd" ana="#Thorstein the Black">Thorstein</persName>, thy husband, also, and myself, I recognise among
+them, and it is a grief thus to behold.” And when this passed away,
+she said, “Let us now go, <persName xml:id="recogito-d829d8b3-9e9e-4678-bae6-23d300830eb1" ana="#Gudrid Thorbjanardottir">Gudrid</persName>; I see the crowd no longer.”
+<persName xml:id="recogito-ea9cdd74-d831-4f5b-b23a-4ff2450e5af4" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-e15369fb-f28b-41b1-8cc2-abd3bc0ca2c3" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, had also disappeared from her sight; he had
+seemed to have a whip in his hand, and to wish to smite the ghostly
+troop. Afterwards they went in, and <rs xml:id="recogito-833e76df-2622-4f03-9f47-ea0f768b583c" type="event" ana="#Sigrid dies">before morning came she was dead</rs>,
+and a coffin was prepared for the body. Now, the same day, the men
+purposed to go out fishing, and <persName xml:id="recogito-b1869424-7674-494a-b4f3-5dc950365049" ana="#Thorstein the Black">Thorstein</persName> led them to the landing
+places, and in the early morning he went to see what they had caught.
+Then <persName xml:id="recogito-f309fb1e-c4b7-46fd-8276-0bd23a671671" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-ab1cae5b-aa3f-439d-af92-5cccda60b1b4" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, sent word to his namesake to come to him,
+saying that matters at home were hardly quiet; that the housewife was
+endeavouring to rise to her feet and to get under the clothes beside
+him. And when he was come in she had risen upon the edge of the bed.
+Then took he her by the hands and laid a pole-axe upon her breast.
+<persName xml:id="recogito-8e36f172-cb31-45b3-8bca-29472923786a" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-7ee4e717-61d8-4b5b-be92-9279ebb3406b" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, died near nightfall. <persName xml:id="recogito-4f1361d1-84b2-4b4b-b2b9-c88a4039fc16" ana="#Thorstein the Black">Thorstein</persName>, the franklin,
+begged <persName xml:id="recogito-3b2a8a60-ac55-44b5-bff1-6763a2b45330" ana="#Gudrid Thorbjanardottir">Gudrid</persName> to lie down and sleep, saying that he would watch over
+the body during the night. So she did, and when a little of the night
+was past, <persName xml:id="recogito-b5388c45-5251-47c7-be8f-ec1a6d05284d" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-3bfe8f96-26a4-47ae-bd41-c2b9b09ef741" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, sat up and spake, saying he wished
+<persName xml:id="recogito-dc8ca33a-21cf-4415-8388-81779c5619d3" ana="#Gudrid Thorbjanardottir">Gudrid</persName> to be called to him, and that he wished to speak with her. “God
+wills,” he said, “that this hour be given to me for my own, and the
+further completion of my plan.” <persName xml:id="recogito-ac5eb961-dbc9-4365-a84a-dc971776037e" ana="#Thorstein the Black">Thorstein</persName>, the franklin, went to find
+<persName xml:id="recogito-d6732429-c8b8-4931-8484-8da19d22c1cc" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, and waked her; begged her to cross herself, and to ask God for
+help, and told her what <persName xml:id="recogito-8fb4a33c-46b2-4154-b595-55dd00f63681" ana="#Thorstein Eiriksson the Red">Thorstein</persName>, <persName xml:id="recogito-0792dc4e-3caa-4fa8-9d26-80f6cace9216" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s son, had spoken with him;
+“and he wishes,” said he, “to meet with thee. Thou art obliged to
+consider what plan thou wilt adopt, because I can in this issue advise
+thee in nowise.” She answered, “It may be that this, this wonderful
+thing, has regard to certain matters, which are afterwards to be had
+in memory; and I hope that God's keeping will test upon me, and I
+will, with God's grace, undertake the risk and go to him, and know
+what he will say, for I shall not be able to escape if harm must
+happen to me. I am far from wishing that he should go elsewhere; I
+suspect, moreover, that the matter will be a pressing one.” Then went
+<persName xml:id="recogito-056446b8-f23a-461b-b915-0eeab8b861a5" ana="#Gudrid Thorbjanardottir">Gudrid</persName> and saw <persName xml:id="recogito-a3e2a3a4-4954-4480-a829-c87184a115bc" ana="#Thorstein Eiriksson the Red">Thorstein</persName>. He appeared to her as if shedding tears. He
+spake in her ear, in a low voice, certain words which she alone might
+know; but this he said so that all heard, “That those men would be
+blessed who held the true faith, and that all salvation and mercy
+accompanied it; and that many, nevertheless, held it lightly.” “It
+is,” said he, “no good custom which has prevailed here in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-5ba2c127-e4d6-4cf6-8b8c-fcdcb33642fe" ana="#Greenland" cert="high">Greenland</placeName>
+since Christianity came, to bury men in unconsecrated ground with few
+religious rites over them. I wish for myself, and for those other men
+who have died, to be taken to the church; but for <persName xml:id="recogito-ff13fa20-a9fd-4ad2-b189-32c4a1f93115" ana="#Foreman Gardi">Garth</persName>, I wish him to
+be burned on a funeral pile as soon as may be, for he is the cause of
+all those ghosts which have been among us this winter.” He spake to
+<persName xml:id="recogito-74a5e8f6-c902-40b9-bdd7-4d255a0e0c90" ana="#Gudrid Thorbjanardottir">Gudrid</persName> also about her own state, saying that her destiny would be a
+great one, and begged her to beware of marrying <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-48936151-db36-43a8-9913-62bf4c8203e9" ana="#Greenland" cert="high">Greenland</placeName> men. He
+begged her also to pay over their property to the Church and some to
+the poor; and then he sank down for the second time.] It had been a
+custom in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-9c3078a0-32a0-4afc-8cde-a4e4215957b5" ana="#Greenland" cert="high">Greenland</placeName>, after Christianity was brought there, to bury men
+in unconsecrated ground on the farms where they died. An upright stake
+was placed over a body, and when the priests came afterwards to the
+place, then was the stake pulled out, consecrated water poured
+therein, and a funeral service held, though it might be long after the
+burial. The bodies were removed to the church in Eiriksfjordr, and
+funeral services held by the priests. <rs xml:id="recogito-07194649-fdb7-4234-b65e-83b567a07274" type="event" ana="#Thorbjorn Vifilsson dies">After that died Thorbjorn</rs>. The
+whole property then went to <persName xml:id="recogito-9a82c196-94b0-4b70-89ed-580914d046fe" ana="#Gudrid Thorbjanardottir">Gudrid</persName>. <persName xml:id="recogito-002cbc6f-1257-4852-9b7b-98b859ac216c" ana="#Eirik Thorvaldsson the Red">Eirik</persName> received her into his
+household, and looked well after her stores.</p><p>6. There was a man named <persName xml:id="recogito-97275ef1-4700-4f44-a295-8378777e8f4a" ana="#Thorfinn Thordarson Karlsefni">Thorfinn Karlsefni</persName>, son of <persName xml:id="recogito-5f83b38c-de81-4707-afa7-3c8291b97a8d" ana="#Thord Snorrason Horse-head">Thord Horsehead</persName>,
+who dwelt in the north (of <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-c732551e-0fb2-4723-b4db-83ad5059dda0" ana="#Iceland" cert="high">Iceland</placeName>), at Reynines in Skagafjordr, as it
+is now called. <persName xml:id="recogito-eed63923-98c1-4716-a3d8-32338b132994" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> was a man of good family, and very rich. His
+mother's name was <persName xml:id="recogito-8a447bac-cddf-4cb8-b248-1e2d8a71eec4" ana="#Thorunn">Thorun</persName>. He engaged in trading journeys, and seemed a
+goodly, bold, and gallant traveller. One summer <persName xml:id="recogito-57ffaf18-7bed-4a04-83bb-4e556aa0f169" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> prepared his
+ship, intending to go to <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-a74fafc7-1d82-466a-9b8c-e68b88c27364" ana="#Greenland" cert="high">Greenland</placeName>. <persName xml:id="recogito-34c24f3e-f7fe-4433-86dc-63ee7e54fa55" ana="#Snorri Thorbrandsson">Snorri</persName>, <persName xml:id="recogito-4e0a6c1e-366e-4fd7-9d94-36af246d3031" ana="#Thorbrand Thorfinnsson of Alftafjord">Thorbrand</persName>'s son, from
+Alptafjordr, resolved to travel with him, and there were thirty men in
+the company. There was a man named <persName xml:id="recogito-8b894bed-0df3-486e-bd61-bafe5b9d191c" ana="#Bjarni Grimolfsson">Bjarni</persName>, <persName xml:id="recogito-10c2615f-2604-44fb-8503-9df89aaaeb15" ana="#Grimolf">Grimolf</persName><note target="recogito-10c2615f-2604-44fb-8503-9df89aaaeb15" resp="AmateurestGamer">Not explicitly mentioned in the physical book</note>'s son, a man of
+Breidafjordr (Broadfirth); another called <persName xml:id="recogito-741653f3-dee7-4804-9c2a-2c9ece21e929" ana="#Thorhall Gamlason">Thorhall</persName>, son of <persName xml:id="recogito-6a95288c-b392-40a3-83bf-b07671ccdc92" ana="#Gamli">Gamli</persName><note target="recogito-6a95288c-b392-40a3-83bf-b07671ccdc92" resp="AmateurestGamer">Not explicitly mentioned in the physical book</note>, a
+man from the east of <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-b41f75d0-2668-44e0-84a4-5da555dd50a5" ana="#Iceland" cert="high">Iceland</placeName>. They prepared their ship the very same
+summer as <persName xml:id="recogito-2a8c0c60-a618-4800-a182-b0d0da1d6688" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>, with intent also to go to <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-14cc3d85-b72b-499c-800a-29b4c96c025f" ana="#Greenland" cert="high">Greenland</placeName>. They had in
+the ship forty men. The two ships launched out into the open sea as
+soon as they were ready. It is not recorded how long a voyage they
+had. But, after this, I have to tell you that both these ships came to
+Eiriksfjordr about autumn. <persName xml:id="recogito-4afc16c3-7102-4b5c-81a7-df6350741e44" ana="#Eirik Thorvaldsson the Red">Eirik</persName> rode down to the ships with other men
+of the land, and a market-fair was promptly instituted. The captains
+invited <persName xml:id="recogito-88085f9a-3344-49bc-913e-af763df3f24e" ana="#Gudrid Thorbjanardottir">Gudrid</persName> to take such of the merchandise as she wished, and
+<persName xml:id="recogito-b207262f-8f31-4d9e-8f2f-42a49f0d3a95" ana="#Eirik Thorvaldsson the Red">Eirik</persName> displayed on his part much magnificence in return, inasmuch as
+he invited both these ships' companies home with him to pass the
+winter in Brattahlid. The merchants accepted the invitation, and went
+home with <persName xml:id="recogito-34b333ef-57b2-4f0b-8c7b-3ab7bf20e80a" ana="#Eirik Thorvaldsson the Red">Eirik</persName>. Afterwards their merchandise was removed to
+Brattahlid, where a good and large outhouse was not lacking in which
+to store the goods. The merchants were well pleased to stay with <persName xml:id="recogito-ecfdd869-019d-47d8-a042-d4f0a448df9f" ana="#Eirik Thorvaldsson the Red">Eirik</persName>
+during the winter. When now Yule was drawing nigh, <persName xml:id="recogito-7ca576b7-3439-4194-8205-8307ada923b5" ana="#Eirik Thorvaldsson the Red">Eirik</persName> began to look
+more gloomy than he was wont to be. Presently <persName xml:id="recogito-4ecf5181-d774-403c-a658-7915e91cfcc7" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> entered into
+conversation with him, and said, “Art thou in trouble, <persName xml:id="recogito-df0606aa-1d23-409f-910f-09f153470242" ana="#Eirik Thorvaldsson the Red">Eirik</persName>? it
+appears to me that thou art somewhat more taciturn than thou hast
+been; still thou helpest us with much liberality, and we are bound to
+reward thee according as we have means thereto. Say now what causes
+thy cheerlessness.” <persName xml:id="recogito-1ec95b1c-239d-42b0-8baa-718ec7bc7de9" ana="#Eirik Thorvaldsson the Red">Eirik</persName> answered, “You receive hospitality well, and
+like worthy men. Now, I have no mind that our intercourse together
+should be expensive to you; but so it is, that it will seem to me an
+ill thing if it is heard that you never spent a worse Yule than this,
+just now beginning, when <persName xml:id="recogito-31ef20f6-e3ee-47d4-98b4-34613228cc84" ana="#Eirik Thorvaldsson the Red">Eirik the Red</persName> entertained you at Brattahlid,
+in Greenland.” <persName xml:id="recogito-ca1ff478-6c74-4127-b02c-f3efebdb3468" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> answered, “It must not come to such a pass;
+we have in our ships malt, meal, and corn, and you have right and
+title to take therefrom whatever you wish, and to make your
+entertainment such as consorts with your munificence.” And <persName xml:id="recogito-e8d8e867-c339-4058-9be3-0c1bb9f9e5df" ana="#Eirik Thorvaldsson the Red">Eirik</persName>
+accepted the offer. Then was preparation made for the Yule-feast, and
+so magnificent was it that the men thought they had scarcely ever seen
+so grand a feast. And after Yule, <persName xml:id="recogito-2c2204db-33e6-4d8d-86ea-bbc7b0ff957f" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> broached to <persName xml:id="recogito-82481929-d525-4f53-af80-eaee9227a73e" ana="#Eirik Thorvaldsson the Red">Eirik</persName> the
+subject of a marriage with <persName xml:id="recogito-3bff6cb9-ef1f-47cf-8a11-06e1be9bdfb0" ana="#Gudrid Thorbjanardottir">Gudrid</persName>, which he thought might be under
+<persName xml:id="recogito-14ede5aa-2ffd-4a9c-b3e6-4dee0d72a36b" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s control, and the woman appeared to him to be both beautiful
+and of excellent understanding. <persName xml:id="recogito-21ff18d9-7e5a-4380-bbee-1a52ecdf7082" ana="#Eirik Thorvaldsson the Red">Eirik</persName> answered and said, that for his
+part he would willingly undertake his suit, and said, moreover, that
+she was worthy of a good match. It is also likely, he thought, that
+she will be following out her destiny, should she be given to him;
+and, moreover, the report which comes to me of him is good. The
+proposals were now laid before her, and <rs xml:id="recogito-39544d75-d65f-4b38-9393-be6d36f0caca" type="event" ana="#Thorfinn Thordarson Karlsefni marries Gudrid Thorbjarnardottir">she allowed the marriage with
+her to be arranged</rs> which <persName xml:id="recogito-3d02dcc2-af98-4c45-9ea5-d4bdb9ab133b" ana="#Eirik Thorvaldsson the Red">Eirik</persName> wished to promote. However, I will not
+now speak at length how this marriage took place; the Yule festival
+was prolonged and made into a marriage-feast. Great joy was there in
+Brattahlid during the winter. Much playing at backgammon and telling
+of stories went on, and many things were done that ministered to the
+comfort of the household.</p><p>7. During this time much talk took place in Brattahlid about making
+ready to go to <placeName xml:id="recogito-2677c5d3-1b6e-47cf-8c75-d5f1d56b72c9" ana="#Vinland" cert="low">Vinland</placeName> the Good, and it was asserted that they would
+there find good choice lands. The discourse came to such conclusion
+that <persName xml:id="recogito-92c47d3c-0112-4f33-abd4-dd8c40d3e6ef" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and <persName xml:id="recogito-469e67f6-9acd-4331-bca1-ae5c078fbc65" ana="#Snorri Thorbrandsson">Snorri</persName> prepared their ship, with the intention of
+seeking <placeName xml:id="recogito-8f91f12d-3adb-45d9-bca8-b75b599bc31d" ana="#Vinland" cert="low">Vinland</placeName> during the summer. <persName xml:id="recogito-86f942cd-d5e2-473c-ae38-9616946c2098" ana="#Bjarni Grimolfsson">Bjarni</persName> and <persName xml:id="recogito-68b0dd94-3783-4710-aa02-7a5948cf4f4f" ana="#Thorhall Gamlason">Thorhall</persName> ventured on the
+same expedition, with their ship and the retinue which had accompanied
+them. [There was a man named <persName xml:id="recogito-2b77ef6e-2735-487f-96e4-6a1447f89d09" ana="#Thorvard">Thorvard</persName>; he married <persName xml:id="recogito-a7b11deb-5747-4e8d-919f-9af51f03b95b" ana="#Freydis Eiriksdottir">Freydis</persName>, natural
+daughter of <persName xml:id="recogito-24962163-b64e-4831-a929-dcc1a2aec98d" ana="#Eirik Thorvaldsson the Red">Eirik the Red</persName>; he set out with them likewise, as also
+<persName xml:id="recogito-0522265c-c9d5-40d0-bd1e-76e528b7e44a" ana="#Thorvald Eiriksson">Thorvald</persName>, a son of <persName xml:id="recogito-8109fa0b-6384-46f8-b45e-61e91abb5dbd" ana="#Eirik Thorvaldsson the Red">Eirik</persName>.] There was a man named <persName xml:id="recogito-7061f424-90b4-4f6d-a091-9ba0c330c612" ana="#Thorvald Eiriksson">Thorvald</persName>; he was a
+son-in-law[B] of <persName xml:id="recogito-15ce7939-e633-40c6-8740-79fa90004dc5" ana="#Eirik Thorvaldsson the Red">Eirik the Red</persName>. <persName xml:id="recogito-1c8f1fb8-b754-45c2-85b0-c3c3ada78612" ana="#Thorhall the Huntsman">Thorhall</persName> was called the Sportsman; he
+had for a long time been <persName xml:id="recogito-9b1446ff-cbc0-4956-be12-399fc9bdece2" ana="#Eirik Thorvaldsson the Red">Eirik</persName>'s companion in hunting and fishing
+expeditions during the summers, and many things had been committed to
+his keeping. <persName xml:id="recogito-7b61c063-bf48-4067-bee3-60113d2918d8" ana="#Thorhall the Huntsman">Thorhall</persName> was a big man, dark, and of gaunt appearance;
+rather advanced in years, overbearing in temper, of melancholy mood,
+silent at all times, underhand in his dealings, and withal given to
+abuse, and always inclined towards the worst. He had kept himself
+aloof from the true faith when it came to <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-21e7c3e0-7869-4002-97ab-f6fc00fdbf6f" ana="#Greenland" cert="high">Greenland</placeName>. He was but little
+encompassed with the love of friends, but yet <persName xml:id="recogito-f1795eec-7d36-4018-86db-7c37ffb52bd7" ana="#Eirik Thorvaldsson the Red">Eirik</persName> had long held
+conversation with him. He went in the ship with <persName xml:id="recogito-cb55aaaf-5208-40f5-b98b-356439a61ca9" ana="#Thorvald Eiriksson">Thorvald</persName> and his man,
+because he was widely acquainted with the unpeopled districts. They
+had the ship which <persName xml:id="recogito-9edd6dfe-b130-4f42-a21e-8384a5e94cd5" ana="#Thorbjorn Vifilsson">Thorbjorn</persName> had brought to <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-d4f81c08-69af-4396-9616-a305e4caae4d" ana="#Greenland" cert="high">Greenland</placeName>, and they
+ventured on the expedition with <persName xml:id="recogito-1e6944a2-3488-4ba0-ae27-75781f051217" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and the others; and most of
+them in this ship were Greenlanders. There were one hundred and sixty
+men in their ships. They sailed away from land; then to the Vestribygd
+and to Bjarneyjar (the Bear Islands). Thence they sailed away from
+Bjarneyjar with northerly winds. They were out at sea two half-days.
+Then they came to land, and rowed along it in boats, and explored it,
+and found there flat stones, many and so great that two men might well
+lie on them stretched on their backs with heel to heel. Polar-foxes
+were there in abundance. This land they gave name to, and called it
+Helluland (stone-land). Then they sailed with northerly winds two
+half-days, and there was then land before them, and on it a great
+forest and many wild beasts. An island lay in the south-east off the
+land, and they found bears thereon, and called the island Bjarney
+(Bear Island); but the mainland, where the forest was, they called
+Markland (forest-land). Then, when two half-days were passed, they saw
+land, and sailed under it. There was a cape to which they came. They
+cruised along the land, leaving it on the starboard side. There was a
+harbourless coast-land, and long sandy strands. They went to the land
+in boats, and found the keel of a ship, and called the place
+Kjalar-nes (Keelness). They gave also name to the strands, calling
+them Furdustrandir (wonder-shore), because it was tedious to sail by
+them. Then the coast became indented with creeks, and they directed
+their ships along the creeks. Now, before this, when <persName xml:id="recogito-3f7c01a9-f1b2-4152-a830-5d2bf4f713e4" ana="#Leif Eiriksson the Lucky">Leif</persName> was with
+<persName xml:id="recogito-d08e4c73-de09-4d33-9c4b-18346600d6c4" ana="#King Olaf Tryggvason of Norway">King Olaf Tryggvason</persName>, and the king had requested him to preach
+Christianity in <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-a15160db-6f36-4f02-b8d9-ed2007b55de0" ana="#Greenland" cert="high">Greenland</placeName>, he gave him two Scotch people, the man
+called <persName xml:id="recogito-625446f0-2ba6-417f-9aee-c3b1e1a960e5" ana="#Haki">Haki</persName>, and the woman called <persName xml:id="recogito-d202e27d-674f-47f1-806e-9631dd71f6a1" ana="#Hekja">Hækja</persName>. The king requested <persName xml:id="recogito-c5b843b5-391b-4938-be37-c3dc40de4bfb" ana="#Leif Eiriksson the Lucky">Leif</persName> to
+have recourse to these people if ever he should want fleetness,
+because they were swifter than wild beasts. <persName xml:id="recogito-86a496a4-cc91-44c8-9e03-912e392a0a35" ana="#Eirik Thorvaldsson the Red">Eirik</persName> and <persName xml:id="recogito-64f7c881-72d1-457f-b495-0e6287f4c571" ana="#Leif Eiriksson the Lucky">Leif</persName> had got
+these people to go with <persName xml:id="recogito-826a2563-1da9-4c40-99e5-18b8515fef85" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>. Now, when they had sailed by
+Furdustrandir, they put the Scotch people on land, and requested them
+to run into the southern regions, seek for choice land, and come back
+after three half-days[C] were passed. They were dressed in such wise
+that they had on the garment which they called _biafal_. It was made
+with a hood at the top, open at the sides, without sleeves, and was
+fastened between the legs. A button and a loop held it together there;
+and elsewhere they were without clothing. Then did they cast anchors
+from the ships, and lay there to wait for them. And when three days
+were expired the Scotch people leapt down from the land, and one of
+them had in his hand a bunch of grapes, and the other an ear of wild
+wheat.</p><p>[Footnote B: Later on in the Saga he is called a son of Eirik. The
+text would appear to be somewhat corrupt here, as the passage in
+square brackets from Hauks-bok seems to show.]</p><p>[Footnote C: The word “dœgr,” both here and above, is translated
+“half-day,” though it may possibly mean a period of twenty-four
+hours. It is to be noticed, however, that these Scotch people return
+after three “dagar,” which can only mean periods of twenty-four
+hours.]</p><p>They said to <persName xml:id="recogito-c1f27e5c-d499-444e-af3c-1fc2fa927e00" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> that they considered they had found good and
+choice land. Then they received them into their ship, and proceeded on
+their journey to where the shore was cut into by a firth. They
+directed the ships within the firth. There was an island lying out in
+front of the firth, and there were great currents around the island,
+which they called Straums-ey (Stream-island). There were so many birds
+on it that scarcely was it possible to put one's feet down for the
+eggs. They continued their course up the firth, which they called
+Straumsfjordr, and carried their cargo ashore from the ships, and
+there they prepared to stay. They had with them cattle of all kinds,
+and for themselves they sought out the produce of the land thereabout.
+There were mountains, and the place was fair to look upon. They gave
+no heed to anything except to explore the land, and they found large
+pastures. They remained there during the winter, which happened to be
+a hard one, with no work doing; and they were badly off for food, and
+the fishing failed. Then they went out to the island, hoping that
+something might be got there from fishing or from what was drifted
+ashore. In that spot there was little, however, to be got for food,
+but their cattle found good sustenance. After that they called upon
+God, praying that He would send them some little store of meat, but
+their prayer was not so soon granted as they were eager that it should
+be. <persName xml:id="recogito-f4df195c-b24a-43d1-b95b-7d97d21ac1f3" ana="#Thorhall the Huntsman">Thorhall</persName> disappeared from sight, and they went to seek him, and
+sought for three half-days continuously. On the fourth half-day
+<persName xml:id="recogito-4ed51260-7a3a-4865-9272-0ef7fe5c2da8" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and <persName xml:id="recogito-fbd2d894-ef19-4723-9c59-6f2eb3d2c02f" ana="#Bjarni Grimolfsson">Bjarni</persName> found him on the peak of a crag. He lay with his
+face to the sky, with both eyes and mouth and nostrils wide open,
+clawing and pinching himself, and reciting something. They asked why
+he had come there. He replied that it was of no importance; begged
+them not to wonder thereat; as for himself, he had lived so long, they
+needed not to take any account of him. They begged him to go home with
+them, and he did so. A little while after a whale was driven ashore,
+and the men crowded round it, and cut it up, and still they knew not
+what kind of whale it was. Even <persName xml:id="recogito-791b6dfa-c839-44f3-a8b3-a611d3361557" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> recognised it not, though he
+had great knowledge of whales. It was cooked by the cook-boys, and
+they ate thereof; though bad effects came upon all from it afterwards.
+Then began <persName xml:id="recogito-f6ab96f6-1ba3-4e3e-8deb-517fbe09d1d1" ana="#Thorhall the Huntsman">Thorhall</persName>, and said, “Has it not been that the Redbeard has
+proved a better friend than your Christ? this was my gift for the
+poetry which I composed about Thor, my patron; seldom has he failed
+me.” Now, when the men knew that, none of them would eat of it, and
+they threw it down from the rocks, and turned with their supplications
+to God's mercy. Then was granted to them opportunity of fishing, and
+after that there was no lack of food that spring. They went back again
+from the island, within Straumsfjordr, and obtained food from both
+sides; from hunting on the mainland, and from gathering eggs and from
+fishing on the side of the sea.</p><p>8. When summer was at hand they discussed about their journey, and
+made an arrangement. <persName xml:id="recogito-88399f2e-9a84-4ed8-aa9b-c0ea086187f9" ana="#Thorhall the Huntsman">Thorhall the Sportsman</persName> wished to proceed
+northwards along Furdustrandir, and off Kjalarnes, and so seek
+<placeName xml:id="recogito-32f8e4d5-3005-4a9d-853a-e4928d5e6617" ana="#Vinland" cert="low">Vinland</placeName>; but <persName xml:id="recogito-52bcf6a6-2d50-407f-8ccb-2a0f97f084ff" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> desired to proceed southwards along the land
+and away from the east, because the land appeared to him the better
+the further south he went, and he thought it also more advisable to
+explore in both directions. Then did <persName xml:id="recogito-f804308d-d108-4918-a51f-ca2a22f783d7" ana="#Thorhall the Huntsman">Thorhall</persName> make ready for his
+journey out by the islands, and there volunteered for the expedition
+with him not more than nine men; but with <persName xml:id="recogito-c953d199-99f9-48bd-9ee2-be2623822ea4" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> there went the
+remainder of the company. And one day, when <persName xml:id="recogito-4e3ea2d8-1cfa-4e38-826c-9f5c9e76ddbc" ana="#Thorhall the Huntsman">Thorhall</persName> was carrying
+water to his ship, he drank, and recited this verse:--</p><p>“The clashers of weapons did say when I came here that I should have
+the best of drink (though it becomes me not to complain before the
+common people). Eager God of the war-helmet! I am made to raise the
+bucket; wine has not moistened my beard, rather do I kneel at the
+fountain.”</p><p>Afterwards they put to sea, and <persName xml:id="recogito-6374f4e1-3da7-4945-8a86-863d4b804993" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> accompanied them by the
+island. Before they hoisted sail <persName xml:id="recogito-0ea8de62-2103-45b6-8477-8765de018189" ana="#Thorhall the Huntsman">Thorhall</persName> recited a verse:--</p><p>“Go we back where our countrymen are. Let us make the skilled hawk of
+the sand-heaven explore the broad ship-courses; while the dauntless
+rousers of the sword-storm, who praise the land, and cook whale, dwell
+on Furdustrandir.”</p><p>Then they left, and sailed northwards along Furdustrandir and
+Kjalarnes, and attempted there to sail against a wind from the west. A
+gale came upon them, however, and drove them onwards against <placeName ref="http://geo-kima.org/place/7885" xml:id="recogito-d418c42c-ab0c-4feb-87d0-12d5764c66dc" ana="#Ireland" cert="high">Ireland</placeName>,
+and there were they severely treated, enthralled, and beaten. Then
+<rs xml:id="recogito-b790c133-7cb5-4860-a2e0-798be3822160" type="event" ana="#Thorhall the Huntsman dies">Thorhall lost his life</rs>.</p><p>9. <persName xml:id="recogito-395640a6-0c15-4ea3-91eb-d42b6314d9ba" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> proceeded southwards along the land, with <persName xml:id="recogito-93842b69-31da-4404-9d3a-49c56a8ed430" ana="#Snorri Thorbrandsson">Snorri</persName> and
+<persName xml:id="recogito-33e338f7-9ccb-49ff-9d26-dae3108385dd" ana="#Bjarni Grimolfsson">Bjarni</persName> and the rest of the company. They journeyed a long while, and
+until they arrived at a river, which came down from the land and fell
+into a lake, and so on to the sea. There were large islands off the
+mouth of the river, and they could not come into the river except at
+high flood-tide. <persName xml:id="recogito-6085a721-b87d-4c56-938d-38887b8cae78" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and his people sailed to the mouth of the
+river, and called the land Hop. There they found fields of wild wheat
+wherever there were low grounds; and the vine in all places were there
+was rough rising ground. Every rivulet there was full of fish. They
+made holes where the land and water joined and where the tide went
+highest; and when it ebbed they found halibut in the holes. There was
+great plenty of wild animals of every form in the wood. They were
+there half a month, amusing themselves, and not becoming aware of
+anything. Their cattle they had with them. And early one morning, as
+they looked around, they beheld nine canoes made of hides, and
+snout-like staves were being brandished from the boats, and they made
+a noise like flails, and twisted round in the direction of the sun's
+motion. Then <persName xml:id="recogito-93dbbb17-642f-4467-a385-650cdf81cf1b" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> said, “What will this betoken?” <persName xml:id="recogito-45c9d832-b042-4577-b658-d7e5e5dd5771" ana="#Snorri Thorbrandsson">Snorri</persName> answered
+him, “It may be that it is a token of peace; let us take a white
+shield and go to meet them.” And so they did. Then did they in the
+canoes row forwards, and showed surprise at them, and came to land.
+They were short men, ill-looking, with their hair in disorderly
+fashion on their heads; they were large-eyed, and had broad cheeks.
+And they stayed there awhile in astonishment. Afterwards they rowed
+away to the south, off the headland.</p><p>10. They had built their settlements up above the lake. And some of
+the dwellings were well within the land, but some were near the lake.
+Now they remained there that winter. They had no snow whatever, and
+all their cattle went out to graze without keepers. Now when spring
+began, they beheld one morning early, that a fleet of hide-canoes was
+rowing from the south off the headland; so many were they as if the
+sea were strewn with pieces of charcoal, and there was also the
+brandishing of staves as before from each boat. Then they held shields
+up, and a market was formed between them; and this people in their
+purchases preferred red cloth; in exchange they had furs to give, and
+skins quite grey. They wished also to buy swords and lances, but
+<persName xml:id="recogito-a3f33e4b-2d9b-41a7-8db0-67e8f964dcfe" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and <persName xml:id="recogito-2f12983c-d460-4e8c-aa92-b9d14eb2f800" ana="#Snorri Thorbrandsson">Snorri</persName> forbad it. They offered for the cloth dark hides,
+and took in exchange a span long of cloth, and bound it round their
+heads; and so matters went on for a while. But when the stock of cloth
+began to grow small, then they split it asunder, so that it was not
+more than a finger's breadth. The Skrœlingar {Esquimaux) gave for it
+still quite as much, or more than before.</p><p>11. Now it came to pass that a bull, which belonged to <persName xml:id="recogito-e21df93c-39be-4fc0-8437-0b63bb51c3e6" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s
+people, rushed out of the wood and bellowed loudly at the same time.
+The Skrœlingar, frightened thereat, rushed away to their canoes, and
+rowed south along the coast. There was then nothing seen of them for
+three weeks together. When that time was gone by, there was seen
+approaching from the south a great crowd of Skrœlingar boats, coming
+down upon them like a stream, the staves this time being all
+brandished in the direction opposite to the sun's motion, and the
+Skrœlingar were all howling loudly. Then took they and bare red
+shields to meet them. They encountered one another and fought, and
+there was a great shower of missiles. The Skrœlingar had also
+war-slings, or catapults. Then <persName xml:id="recogito-06fed52a-5c88-4955-8168-17c1e14b6efb" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and <persName xml:id="recogito-08da371c-609a-44c6-ba17-f04870282ff0" ana="#Snorri Thorbrandsson">Snorri</persName> see that the
+Skrœlingar are bringing up poles, with a very large ball attached to
+each, to be compared in size to a sheep's stomach, dark in colour; and
+these flew over <persName xml:id="recogito-a76e4d5e-7c8d-4fb9-b1f6-07855279ec0b" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s company towards the land, and when they
+came down they struck the ground with a hideous noise. This produced
+great terror in <persName xml:id="recogito-f34d8950-e219-46c8-abb8-0b9333032359" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and his company, so that their only impulse
+was to retreat up the country along the river, because it seemed as if
+crowds of Skrœlingar were driving at them from all sides. And they
+stopped not until they came to certain crags. There they offered them
+stern resistance. <persName xml:id="recogito-2d1327dc-79f0-4ae7-a8af-288ff59e65d7" ana="#Freydis Eiriksdottir">Freydis</persName> came out and saw how they were retreating.
+She called out, “Why run you away from such worthless creatures, stout
+men that ye are, when, as seems to me likely, you might slaughter them
+like so many cattle? Let me but have a weapon, I think I could fight
+better than any of you.” They gave no heed to what she said. <persName xml:id="recogito-c555ed08-ba2e-409c-a1ba-efe76cb966c0" ana="#Freydis Eiriksdottir">Freydis</persName>
+endeavoured to accompany them, still she soon lagged behind, because
+she was not well; she went after them into the wood, and the
+Skrœlingar directed their pursuit after her. She came upon a dead man;
+<persName xml:id="recogito-7f2ab152-4572-4848-b6da-7cbda60dd34d" ana="#Thorbrand Snorrason">Thorbrand</persName><note target="recogito-7f2ab152-4572-4848-b6da-7cbda60dd34d" resp="AmateurestGamer">May be Snorri Thorbrandsson</note>, <persName xml:id="recogito-9494c6e2-656e-438b-93b1-771bc4b5e372" ana="#Snorri">Snorri</persName><note target="recogito-9494c6e2-656e-438b-93b1-771bc4b5e372" resp="AmateurestGamer">Not explicitly mentioned in the physical book</note>'s son, with a flat stone fixed in his head; his
+sword lay beside him, so she took it up and prepared to defend herself
+therewith. Then came the Skrœlingar upon her. She let down her sark
+and struck her breast with the naked sword. At this they were
+frightened, rushed off to their boats, and fled away. <persName xml:id="recogito-f4580ce0-63ff-47a8-8db5-dd82c432f222" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and
+the rest came up to her and praised her zeal. Two of <persName xml:id="recogito-f37799a0-824a-4e63-ad42-a64852797950" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s men
+fell, and four of the Skrœlingar, notwithstanding they had overpowered
+them by superior numbers. After that, they proceeded to their booths,
+and began to reflect about the crowd of men which attacked them upon
+the land; it appeared to them now that the one troop will have been
+that which came in the boats, and the other troop will have been a
+delusion of sight. The Skrœlingar also found a dead man, and his axe
+lay beside him. One of them struck a stone with it, and broke the axe.
+It seemed to them good for nothing, as it did not withstand the stone,
+and they threw it down.</p><p>12. [<persName xml:id="recogito-938e37e6-c0be-46d5-b00d-84d953709267" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and his company] were now of opinion that though the
+land might be choice and good, there would be always war and terror
+overhanging them, from those who dwelt there before them. They made
+ready, therefore, to move away, with intent to go to their own land.
+They sailed forth northwards, and found five Skrœlingar in jackets of
+skin, sleeping [near the sea], and they had with them a chest, and in
+it was marrow of animals mixed with blood; and they considered that
+these must have been outlawed. They slew them. Afterwards they came to
+a headland and a multitude of wild animals; and this headland appeared
+as if it might be a cake of cow-dung, because the animals passed the
+winter there. Now they came to Straumsfjordr, where also they had
+abundance of all kinds. It is said by some that <persName xml:id="recogito-c3326b80-5397-4682-9977-c4f1ec932a75" ana="#Bjarni Grimolfsson">Bjarni</persName> and <persName xml:id="recogito-c3c14915-18dc-40c6-ae8a-bcfc1d03a828" ana="#Freydis Eiriksdottir">Freydis</persName>
+remained there, and a hundred men with them, and went not further
+away. But <persName xml:id="recogito-2bcd3e4d-d6fd-4286-824a-adb53bb122c5" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> and <persName xml:id="recogito-16cd6f93-9f80-4413-a2f2-d9832cd8f32e" ana="#Snorri Thorbrandsson">Snorri</persName> journeyed southwards, and forty men
+with them, and after staying no longer than scarcely two months at
+Hop, had come back the same summer. <persName xml:id="recogito-f2d2bf54-7088-456e-8f70-6dd62116e140" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> set out with a single
+ship to seek <persName xml:id="recogito-94f4aad8-287a-4d39-9f0e-f81d7187a9d9" ana="#Thorhall the Huntsman">Thorhall</persName>, but the (rest of the) company remained behind.
+He and his people went northwards off Kjalarnes, and were then borne
+onwards towards the west, and the land lay on their larboard-side, and
+was nothing but wilderness. And when they had proceeded for a long
+time, there was a river which came down from the land, flowing from
+the east towards the west. They directed their course within the
+river's mouth, and lay opposite the southern bank.</p><p>13. One morning <persName xml:id="recogito-c6ee20e1-6465-482f-9f3e-3ee22be26f5c" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s people beheld as it were a glittering
+speak above the open space in front of them, and they shouted at it.
+It stirred itself, and it was a being of the race of men that have
+only one foot, and he came down quickly to where they lay. <persName xml:id="recogito-3ed056f0-cea2-4915-bd7e-d4e6fe6bad31" ana="#Thorvald Eiriksson">Thorvald</persName>,
+son of <persName xml:id="recogito-2841a3a1-4c7a-4770-ba2f-80ddb9718ecd" ana="#Eirik Thorvaldsson the Red">Eirik the Red</persName>, sat at the tiller, and <rs xml:id="recogito-07144e69-a46c-4722-ae1d-5c41402dd70b" type="event" ana="#Thorvald Eiriksson dies">the One-footer shot him</rs>
+with an arrow in the lower abdomen. He drew out the arrow. Then said
+<persName xml:id="recogito-78e833d5-0f76-443b-af9d-ff382de7086b" ana="#Thorvald Eiriksson">Thorvald</persName>, “Good land have we reached, and fat is it about the paunch.”
+Then the One-footer leapt away again northwards. They chased after
+him, and saw him occasionally, but it seemed as if he would escape
+them. He disappeared at a certain creek. Then they turned back, and
+one man spake this ditty:--</p><p>“Our men chased (all true it is) a One-footer down to the shore; but
+the wonderful man strove hard in the race....[D] Hearken, <persName xml:id="recogito-e6c538a4-9732-4322-9b55-dcc15ef05bbd" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>.”</p><p>Then they journeyed away back again northwards, and saw, as they
+thought, the land of the One-footers. They wished, however, no longer
+to risk their company. They conjectured the mountains to be all one
+range; those, that is, which were at Hop, and those which they now
+discovered; almost answering to one another; and it was the same
+distance to them on both sides from Straumsfjordr. They journeyed
+back, and were in Straumsfjordr the third winter. Then fell the men
+greatly into backsliding. They who were wifeless pressed their claims
+at the hands of those who were married. <persName xml:id="recogito-8ba757eb-b600-4c2c-8d61-74bef93b71af" ana="#Snorri Thorfinnsson">Snorri</persName>, <persName xml:id="recogito-0a21ddf1-49d5-418b-8bee-135cda4c9c0d" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s son, was
+born the first autumn, and he was three winters old when they began
+their journey home. Now, when they sailed from <placeName xml:id="recogito-27b1b20e-c3bf-4ad6-88cb-fa463ad3937d" ana="#Vinland" cert="low">Vinland</placeName>, they had a
+southern wind, and reached Markland, and found five Skrœlingar; one
+was a bearded man, two were women, two children. <persName xml:id="recogito-6cb415a4-bacc-444d-a4c1-b1f8688b909a" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s people
+caught the children, but the others escaped and sunk down into the
+earth. And they took the children with them, and taught them their
+speech, and they were baptized. The children called their mother
+<persName xml:id="recogito-bbcbe3f3-d0a4-4c71-ba08-42c4dcee0e80" ana="#Vethild of Markland">Vœtilldi</persName>, and their father <persName xml:id="recogito-e00d49e1-a254-4f24-82c9-2a1db9e45b71" ana="#Ovaegi of Markland">Uvœgi</persName>. They said that kings ruled over the
+land of the Skrœlingar, one of whom was called <persName xml:id="recogito-ac9703da-7099-4c14-92ec-9d9a7854998b" ana="#King Avaldamon of Markland">Avalldamon</persName>, and the
+other <persName xml:id="recogito-d2a69820-0617-42d8-8ac0-d96c3a15e0b1" ana="#King Valdidida of Markland">Valldidida</persName>. They said also that there were no houses, and the
+people lived in caves or holes. They said, moreover, that there was a
+land on the other side over against their land, and the people there
+were dressed in white garments, uttered loud cries, bare long poles,
+and wore fringes. This was supposed to be Hvitramannaland (whiteman's
+land). Then came they to <placeName ref="http://sws.geonames.org/3425505" xml:id="recogito-ef9d82ae-9524-44fa-959f-4fc75a35372d" ana="#Greenland" cert="high">Greenland</placeName>, and remained with <persName xml:id="recogito-2dc604ca-39f2-4c99-b2b1-922a1c8f4748" ana="#Eirik Thorvaldsson the Red">Eirik the Red</persName>
+during the winter.</p><p>[Footnote D: in this _lacuna_ occur the words “af stopi,” which Dr.
+Vigfusson translates, in his notes, “over the stubbles.”]</p><p>14. <persName xml:id="recogito-c33c2004-72c8-4cb4-80cf-866f47655067" ana="#Bjarni Grimolfsson">Bjarni</persName>, <persName xml:id="recogito-77e58d44-83c4-4ac4-abae-38a71b1e149a" ana="#Grimolf">Grimolf</persName><note target="recogito-77e58d44-83c4-4ac4-abae-38a71b1e149a" resp="AmateurestGamer">Not explicitly mentioned in the physical book</note>'s son, and his men were carried into the Irish
+Ocean, and came into a part where the sea was infested by ship-worms.
+They did not find it out before the ship was eaten through under them;
+then they debated what plan they should follow. They had a ship's boat
+which was smeared with tar made of seal-fat. It is said that the
+ship-worm will not bore into the wood which has been smeared with the
+seal-tar. The counsel and advice of most of the men was to ship into
+the boat as many men as it would hold. Now, when that was tried, the
+boat held not more than half the men. Then <persName xml:id="recogito-839ad0e1-a755-48ff-bd1b-9aad740734b4" ana="#Bjarni Grimolfsson">Bjarni</persName> advised that it
+should be decided by the casting of lots, and not by the rank of the
+men, which of them should go into the boat; and inasmuch as every man
+there wished to go into the boat, though it could not hold all of
+them; therefore, they accepted the plan to cast lots who should leave
+the ship for the boat. And the lot so fell that <persName xml:id="recogito-6ec7bb0d-59dc-473d-846d-141144abddd4" ana="#Bjarni Grimolfsson">Bjarni</persName>, and nearly
+half the men with him, were chosen for the boat. So then those left
+the ship and went into the boat who had been chosen by lot so to do.
+And when the men were come into the boat, a young man, an Icelander,
+who had been a fellow-traveller of <persName xml:id="recogito-f5047261-a92d-433e-a3ab-89f115ceceb3" ana="#Bjarni Grimolfsson">Bjarni</persName>, said, “Dost thou intend,
+<persName xml:id="recogito-64062b26-91fd-4d81-9c98-80251f36fe98" ana="#Bjarni Grimolfsson">Bjarni</persName>, to separate thyself here from me.” “It must needs be so now,”
+<persName xml:id="recogito-58f44a0e-1e01-4d81-98a7-18f4fb804b97" ana="#Bjarni Grimolfsson">Bjarni</persName> answered. He replied, “Because, in such case, thou didst not so
+promise me when I set out from <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-485e000a-8fd3-4edd-a330-966b4cc28279" ana="#Iceland" cert="high">Iceland</placeName> with thee from the homestead of
+my father.” <persName xml:id="recogito-800d042c-5d97-4cf3-ba52-147b7a96dd35" ana="#Bjarni Grimolfsson">Bjarni</persName> answered, “I do not, however, see here any other
+plan; but what plan dost thou suggest?” He replied, “I propose this
+plan, that we two make a change in our places, and thou come here and
+I will go there.” <persName xml:id="recogito-41ce93ad-74e7-4d66-8cd5-9ad78a1c070c" ana="#Bjarni Grimolfsson">Bjarni</persName> answered, “So shall it be; and this I see,
+that thou labourest willingly for life, and that it seems to thee a
+grievous thing to face death.” Then they changed places. The man went
+into the boat, and <persName xml:id="recogito-4210bcb8-1f96-4b6c-a683-e79e0d96ddbd" ana="#Bjarni Grimolfsson">Bjarni</persName> back into the ship; and it is said that
+<persName xml:id="recogito-df700097-97cd-452d-9141-d84718f9b693" ana="#Bjarni Grimolfsson">Bjarni</persName> perished there in the Worm-sea, and they who were with him in
+the ship; but the boat and those who were in it went on their journey
+until they reached land, and told this story afterwards.</p><p>15. The next summer <persName xml:id="recogito-984afbb8-48dc-468c-aa18-424a6b1a6e8e" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName> set out for <placeName ref="http://geo-kima.org/place/9884" xml:id="recogito-ac4ae649-30fb-49d1-ac64-0f968247326b" ana="#Iceland" cert="high">Iceland</placeName>, and <persName xml:id="recogito-18b06352-3d6d-46c5-bf76-dd4cccbbb3a5" ana="#Snorri Thorfinnsson">Snorri</persName> with
+him, and went home to his house in Reynines. His mother considered
+that he had made a shabby match, and she was not at home the first
+winter. But when she found that <persName xml:id="recogito-de7a0c6d-c64c-4ef8-9581-a847230160a5" ana="#Gudrid Thorbjanardottir">Gudrid</persName> was a lady without peer, she
+went home, and their intercourse was happy. The daughter of <persName xml:id="recogito-f505ceff-d0b2-4656-b47e-064b8c024a5d" ana="#Snorri Thorfinnsson">Snorri</persName>,
+<persName xml:id="recogito-725235f9-686c-4f82-8008-058aae94ed0a" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s son, was <persName xml:id="recogito-8b70d36a-b7d6-442e-9178-b64bf1dd1f4a" ana="#Hallfrid Snorradottir">Hallfrid</persName>, mother of <persName xml:id="recogito-ba06fd99-6547-4b87-ba94-3b71d14fe6ab" ana="#Bishop Thorlak Runolfsson">Bishop Thorlak</persName>, the son of
+<persName xml:id="recogito-be9c8175-793a-42ab-ab09-a4016366d6e7" ana="#Runolf">Runolf</persName>. (<persName xml:id="recogito-68bd3f3c-1c19-4301-b1da-02bc55698c6c" ana="#Hallfrid Snorradottir">Hallfrid</persName> and <persName xml:id="recogito-0b60a18d-f4bf-4095-bdf8-11f91986bdfe" ana="#Runolf">Runolf</persName>) had a son, whose name was <persName xml:id="recogito-db581eb6-4289-4829-97c1-23eeb37734e4" ana="#Thorbjorn Thorfinnsson">Thorbjorn</persName>; his
+daughter was <persName xml:id="recogito-db7c7e15-bbbb-4f30-ac02-770c6017cbd1" ana="#Thorunn Thorbjarnardottir">Thorun</persName>, mother of <persName xml:id="recogito-12c563e3-e30d-4421-8ec7-0e1b511f9799" ana="#Bishop Bjorn Gilsson">Bishop Bjarn</persName>. <persName xml:id="recogito-a1028467-e1d9-4e53-b524-76dc49c1e4fd" ana="#Thorgeir Snorrason">Thorgeir</persName> was the name of
+a son of <persName xml:id="recogito-adb42f58-3a53-4e65-ab4e-5ab9896511f3" ana="#Snorri Thorfinnsson">Snorri</persName>, <persName xml:id="recogito-281a1da1-2c44-40ba-8f80-d0d114b52b76" ana="#Thorfinn Thordarson Karlsefni">Karlsefni</persName>'s son; he was father of <persName xml:id="recogito-67a40ebe-2784-4fb5-af30-27c2884fe1f2" ana="#Yngveld Thorgeirsdottir">Yngvild</persName>, the mother
+of the first <persName xml:id="recogito-7a396f46-814c-4b10-8648-9875901bd5c0" ana="#Bishop Brand Saemundarson">Bishop Brand</persName>. And here ends this story.</p></div></body>
+        </text>
+      </root>
