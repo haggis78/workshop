@@ -65,11 +65,12 @@
         <h3>Styling your network graph</h3>
         <ol>
             <li>Click the slider icon at the upper right. This opens the control panel.</li>
-            <li>Start with "Size by". Select "frequency". This will size the nodes according to how often someone appears.</li>
-            <li>Next, click "Color by". Select "Element Type" to select that column from our data. This will turn the Witness nodes one color and the Submitter nodes another. You can also change the color scheme.</li>
-            <li>Now let's spread out the graph so we can see better. Click "Customize defaults", go down to Layout Settings, and change Preset from auto to hairball.</li>
-            <li>Try dragging nodes around; you'll see them pull on one another. To pin them in place, so you can drag them one at a time, go down to "Layout", and change from force-directed to "off". </li>
-            <li>Once you like what you see, click "Save". If you want to start your styling over, click "Revert", and it will go back to the last saved version.</li>
+            <li>First, let's spread out the graph so we can see better. Click "Customize defaults", go down to Layout Settings, and change Preset from auto to hairball. Then click "Save" below.</li>
+            <li>Click the arrow in the upper right to return to the main settings menu. We're now going to style the graph. Start with "Size by". Select "Frequency". This will size the nodes according to how often someone appears.</li>
+            <li>Next, click "Color by". Select "Frequency", and the color will likewise correspond to the frequency with which someone appears in the saga. You can also change the color scheme.</li>
+              <li>We're now going to return to "Size by", and change it to "Degree" (number of connections) to select that column from our data. Look at the changes. What nodes change the most? What do you think it might mean about the story and the characters in it?</li>
+            <li>Try dragging nodes around; you'll see them pull on one another. To pin them in place, so you can drag them one at a time <i>without</i> dragging others, go back to Customize defaults, scroll down to "Layout", and change from force-directed to "off". Be aware that one you've pinned them, turning force-directed back on won't work.</li>
+            <li>Once you like what you see, click "Save". If you want to start your styling over, click "Revert", and it should go back to the last saved version, though this does not always work perfectly.</li>
         </ol>
         <h3>Sharing your network graph</h3>
         <p>Once you have your graph in the form you want to share, click the project name in the upper left corner. Select "EMBEDS &lt; / &gt; " . Give it a title. Optionally, select "Include map overview in sidebar" and/or "Include current position and scale", then "Create embed / share link". You'll get both a read-only link and an html embed code. If using this as a classroom assignment, students can submit this to you for you to view and grade.</p>
@@ -78,7 +79,7 @@
         <h3>Preparing to tag</h3>
         <ol>
             <li>Go to <a href="https://recogito.pelagios.org/" target="_blank">https://recogito.pelagios.org/</a>. If you did not do so earlier,  click the blue "Register for Recogito" button and create an account now. If you have an account, click "Log In" at the top right.</li>
-            <li>If you did not do so already, <a href="smrs-2025-files/eiriks-saga-cleaned.txt" download>click here to open</a>, and right-click to "Save As", the cleaned text of Eirik's Saga.</li>
+            <li>If you did not do so already, <a href="smrs-2025-files/eiriks-saga-cleaned.txt" download>click here to download the saga text</a>. You should be able to find it in your downloads folder.</li>
             <li>In Recogito, create a new project by clicking the <b>+ New</b> button in the upper left. As we are working with just one file, select "File upload". Navigate to your Download folder to locate the file <u>eiriks-saga-cleaned.txt</u>. Click "Open" to upload it to Recogito. In a moment, you will have it listed on Recogito as a document; click it there to open.</li>
             <li>At the top, make sure Annotation Mode is selected as Normal, and change Colour to By Entity Type.</li>
         </ol>
@@ -109,12 +110,14 @@
         <ul><li>Option 1: Gephi Nodes and Edges Tables</li>
         <li>Option 2: Annotations CSV and Relations Basic CSV; could be modified for your own uses</li>
         <li>Option 3: TEI XML.</li></ul>
+        <hr/>
         <h3>Processing Recogito XML Download through XQuery (demonstration only)</h3>
         <p>XQuery is a query language that allows the user to treat an XML document like a database. It can be written to locate whatever information you want in the XML and create an output file in whatever format you choose--but it does require understanding both XML and the output format. It also requires use of either eXist-DB or oXygen XML Editor software. eXist-DB is free, but I am not current on its use. oXygen is proprietary and expensive, but students can download and install it with a free 30-day trial license.</p>
-        <p>The XQuery files I created for this project are <b>structurally defined and content-agnostic</b>. This means they should work whether your input document is an Icelandic saga or a telephone book. Students don't have to write a single line of code, or even understand how it works. All they have to do is follow directions and hit enter to generate the CSV files for Kumu based on their Recogito markup. I also wrote XQuery files for relations between people and places, and between people and events. If you are interested in trying out this activity, let me know and I'll be happy to offer further explanation, demonstration, and support.</p>
+        <p>The XQuery files I created for this project are <b>structurally defined and content-agnostic</b>. This means they should work the same with any Recogity XML download, whether your input document was an Icelandic saga or a telephone book. Students don't have to write a single line of code, or even understand how it works. All they have to do is follow directions and hit enter to generate the CSV files for Kumu based on their Recogito markup. I also wrote XQuery files for relations between people and places, and between people and events. If you are interested in trying out this activity, let me know and I'll be happy to offer further explanation, demonstration, and support.</p>
         <hr/>
         <p>Authored by: <a href='https://greensburg-pitt.academia.edu/CampbellW' target="_blank">William H. (Bill) Campbell</a>, Assistant Professor of History and Digital Studies, <a href='https://www.greensburg.pitt.edu/' target="_blank">University of Pittsburgh at Greensburg</a>, whc7@pitt.edu</p>
-        <p>The content on this page, with the exception of the nodes and edges table files, is under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons CC-BY-NC 4.0 license</a>. You may use, adapt, and share it freely, with attribution, for non-commercial purposes only.</p>
-        <p>The nodes and edges table files, and the TEI XML file, are only for use within the context of the workshop by its participants. They may not be shared, duplicated, or used for any other purposes.</p>
+        <p>The content on this page, with the exception of the .csv and .xml files, is under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons CC-BY-NC 4.0 license</a>. You may use, adapt, and share it freely, with attribution, for non-commercial purposes only.</p>
+        <p>The text file of Eirik's Saga with the Project Gutenberg material stripped out is governed by the use conditions of Project Gutenberg, which you can find in the other (unaltered) version of the file linked above.</p>
+        <p>The .csv and .xml files are only for use within the context of this workshop by its participants. They may not be shared, duplicated, or used for any other purposes.</p>
     </body>
 </html>
